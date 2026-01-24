@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -227,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1986f6827d09885",
+  "active": "d02a3a5cdb2dbc93",
   "lastOpenFiles": [
     "06 Secrets/HSR.md",
     "06 Secrets/Github.md",
