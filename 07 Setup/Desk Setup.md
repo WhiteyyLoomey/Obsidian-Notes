@@ -20,4 +20,11 @@ cssclasses:
 
 [NorDeco](https://nordecohk.com/products/eleksmaker-nk-usb-charging-hub?variant=46908575416553)
 
+
+## 3. Keyboards
+##### <span style="color:rgb(255, 255, 0)">1. Wooting 60HE</span>
 ![[Pasted image 20260124201736.png]]
+==Price: HK$ 1227 <span style="color:rgb(255, 0, 0)">(Excluding Shipping)</span>==
+> Hall Effect Keyboard using magnet keycaps. Great inputs but expensive and not great for working.
+
+[Wooting](https://wooting.io/configurator/wooting-60he?product=plus&model=ANSI&lang=United+States&keycaps=none&quantity=1)
