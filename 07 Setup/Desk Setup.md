@@ -32,4 +32,16 @@ cssclasses:
 
 [Wooting](https://wooting.io/configurator/wooting-60he?product=plus&model=ANSI&lang=United+States&keycaps=none&quantity=1)
 
-## 3. Keyboards
+##### <span style="color:rgb(255, 255, 0)">2. Aula F75</span>
+![[Pasted image 20260124204729.png]]
+==Price: HK$ 299==
+> A Budget Keyboard 
+## 4. Mouse
+##### <span style="color:rgb(255, 255, 0)">1. Orbital Path Finder</span>
+![[Pasted image 20260124204407.png]]
+
+==Price: HK$1299==
+> Complete Modular Mouse, infinite customization and smooth gliding, once i buy this there's no point in buying any other mouse, saving money.
+
+
+[2000Fun](https://www.openshop.com.hk/product_41430.htmla)
