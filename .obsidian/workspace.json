@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "07 Setup/Not Purchased Yet.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -157,6 +157,7 @@
   },
   "active": "c6edb51249a54fe0",
   "lastOpenFiles": [
+    "07 Setup/image.png",
     "07 Setup/Not Purchased Yet.md",
     "07 Setup/Images/Pasted image 20260124205001.png",
     "07 Setup/Images/Pasted image 20260124204729.png",

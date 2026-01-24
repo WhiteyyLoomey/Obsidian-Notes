@@ -26,7 +26,7 @@ cssclasses:
 ## 2. USB Sockets
 
 ##### <span style="color:rgb(255, 255, 0)">1. NK Modular Independent Switch Socket</span>
-![|426x426](https://nordecohk.com/cdn/shop/files/6_b2db0d5d-1e82-4f16-95db-d8790d44566a.png?v=1712135272![6_b2db0d5d-1e82-4f16-95db-d8790d44566a.png?v=1712135272](https://nordecohk.com/cdn/shop/files/6_b2db0d5d-1e82-4f16-95db-d8790d44566a.png?v=1712135272))
+![[image.png|365x365]]
 ==Price: HK$ 489==
 > Used for more USB connections, can connect Lightbar to it so the strings wont break when I lift the desk up.
 
