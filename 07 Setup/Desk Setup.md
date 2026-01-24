@@ -31,3 +31,5 @@ cssclasses:
 > Hall Effect Keyboard using magnet keycaps. Great inputs but expensive and not great for working.
 
 [Wooting](https://wooting.io/configurator/wooting-60he?product=plus&model=ANSI&lang=United+States&keycaps=none&quantity=1)
+
+## 3. Keyboards
