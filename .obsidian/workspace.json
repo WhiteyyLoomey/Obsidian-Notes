@@ -11,14 +11,12 @@
             "id": "cef943b9ca39215d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "07 Setup/Not Purchased Yet.md",
-                "mode": "source",
-                "source": false
+                "file": "06 Secrets/Images/{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}.png"
               },
-              "icon": "lucide-file",
-              "title": "Not Purchased Yet"
+              "icon": "lucide-image",
+              "title": "{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}"
             }
           }
         ]
@@ -224,15 +222,16 @@
   },
   "active": "cef943b9ca39215d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "06 Secrets/HSR.md",
     "07 Setup/Not Purchased Yet.md",
+    "07 Setup/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
+    "conflict-files-obsidian-git.md",
     "07 Setup/Images/image.png",
     "07 Setup/Desk Setup.md",
     "07 Setup/Images/Pasted image 20260124205001.png",
     "07 Setup/Images/Pasted image 20260124204729.png",
     "07 Setup/Images/Pasted image 20260124204727.png",
     "07 Setup/Images/Pasted image 20260124204407.png",
-    "07 Setup/Images/Pasted image 20260124201736.png",
-    "06 Secrets/HSR.md"
+    "07 Setup/Images/Pasted image 20260124201736.png"
   ]
 }

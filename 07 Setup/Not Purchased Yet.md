@@ -47,6 +47,14 @@ cssclasses:
 > A Budget Keyboard that has great input almost as good as any other keyboard, maybe even better, but has very low quality parts and would feel cheap instantly
 
 [Price.com.hk](https://www.price.com.hk/product.php?p=636754)
+
+
+##### <span style="color:rgb(255, 255, 0)">3. Keychron K2 HE</span>
+![[{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png|370x346]]
+==Price: HK$ 988==
+> A wood accent hall effect keyboard for both gaming and productivity. This keyboard fits my setup and can also improve gaming.
+
+[2000Fun](https://www.openshop.com.hk/product_34916.html)
 ## 4. Mouse
 ##### <span style="color:rgb(255, 255, 0)">1. Orbital Path Finder</span>
 ![[Pasted image 20260124204407.png|338x336]]
