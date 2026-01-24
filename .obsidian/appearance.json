@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "accentColor": "#ff0066",
-  "cssTheme": "Border",
+  "cssTheme": "Vanilla AMOLED",
   "interfaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
