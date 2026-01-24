@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Game Development/Enemies.md",
+                "file": "06 Secrets/HSR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enemies"
+              "title": "HSR"
             }
           }
         ]
@@ -191,8 +191,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -233,9 +233,9 @@
   },
   "active": "0b8da90bceb6ca7e",
   "lastOpenFiles": [
+    "01 Game Development/Enemies.md",
     "conflict-files-obsidian-git.md",
     "06 Secrets/Github.md",
-    "01 Game Development/Enemies.md",
     "01 Game Development/Ideas.md",
     "06 Secrets/HSR.md",
     "README.md",
