@@ -9,6 +9,3 @@ cssclasses:
 > Neccessary for certain microphones, and great for audio configurations.
 
 [Price.com.hk](https://www.price.com.hk/product.php?p=543083)
-
-
-a
