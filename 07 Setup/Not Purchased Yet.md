@@ -4,7 +4,7 @@ cssclasses:
   - center-images
   - center-titles
 ---
-## 1. Audio Interface
+## 1. Audio
 
 ##### <span style="color:rgb(255, 255, 0)">1.PreSonus AudioBox GO 2x2 USB Audio Interface 錄音介面</span>
 ![[Pasted image 20260124195056.png]]
@@ -13,7 +13,12 @@ cssclasses:
 
 [Price.com.hk](https://www.price.com.hk/product.php?p=543083) 
 
+##### <span style="color:rgb(255, 255, 0)">2. Truthear x Crinacle ZERO</span>
+![[Pasted image 20260124205001.png]]
+==Price: HK$ 458==
+> IEMs perfect for video editing and gaming, it even looks good.
 
+##### <span style="color:rgb(255, 255, 0)">3. Tonor T30 Microphone</span>
 ## 2. USB Sockets
 
 ##### <span style="color:rgb(255, 255, 0)">1. NK Modular Independent Switch Socket</span>
@@ -35,7 +40,9 @@ cssclasses:
 ##### <span style="color:rgb(255, 255, 0)">2. Aula F75</span>
 ![[Pasted image 20260124204729.png]]
 ==Price: HK$ 299==
-> A Budget Keyboard 
+> A Budget Keyboard that has great input almost as good as any other keyboard, maybe even better, but has very low quality parts and would feel cheap instantly
+
+[Price.com.hk](https://www.price.com.hk/product.php?p=636754)
 ## 4. Mouse
 ##### <span style="color:rgb(255, 255, 0)">1. Orbital Path Finder</span>
 ![[Pasted image 20260124204407.png]]

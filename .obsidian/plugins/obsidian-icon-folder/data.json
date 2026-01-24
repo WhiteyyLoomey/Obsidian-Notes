@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiX",
       "SiCashapp",
       "LiBadgeCent",
       "LiKey",
-      "LiHouse",
-      "LiCake"
+      "LiHouse"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,6 @@
   "04 Important/Area.md": "LiHouse",
   "06 Secrets": "LiKey",
   "07 Setup": "LiBadgeCent",
-  "010 Finance": "SiCashapp"
+  "010 Finance": "SiCashapp",
+  "07 Setup/Not Purchased Yet.md": "LiX"
 }
