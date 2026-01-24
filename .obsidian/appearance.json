@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#ff0066",
+  "cssTheme": "Border",
+  "interfaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Notebook Backgrounds"
+  ],
+  "textFontFamily": "JetBrains Mono"
+}

@@ -1,0 +1,12 @@
+{
+  "password": "dc8ffc55ee42248bda9238f1954ed375d105698213c6cd8d15fe48ebd71e3be6",
+  "enablePass": true,
+  "animations": true,
+  "fileEncrypt": {
+    "encrypt": false,
+    "isAlreadyEncrypted": false
+  },
+  "autoLock": "1",
+  "folder": "06 Secrets",
+  "isLocked": true
+}
