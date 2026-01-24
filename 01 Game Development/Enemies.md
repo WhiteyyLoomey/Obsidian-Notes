@@ -13,3 +13,4 @@ Placement: Under Platforms
 Attacks: None
 Drops: Meat
 Placement: Forest
+Spawnrate: ???
