@@ -11,12 +11,14 @@
             "id": "cef943b9ca39215d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "06 Secrets/Images/{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}.png"
+                "file": "07 Setup/Not Purchased Yet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}"
+              "icon": "lucide-file",
+              "title": "Not Purchased Yet"
             }
           }
         ]
@@ -87,54 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20e55ce04ec9784d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "07 Setup/Desk Setup.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Desk Setup"
-            }
-          },
-          {
-            "id": "be6a38216c8338ff",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "07 Setup/Desk Setup.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Desk Setup"
-            }
-          },
-          {
-            "id": "fbce18ab739b2c68",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "a4e4ac48f2d28b23",
             "type": "leaf",
             "state": {
@@ -149,41 +103,6 @@
             }
           },
           {
-            "id": "6ed29957c56c46af",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "07 Setup/Desk Setup.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Desk Setup"
-            }
-          },
-          {
-            "id": "36fec115f861ba36",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "784052c008501b2c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
             "id": "4b99bd4068bcda55",
             "type": "leaf",
             "state": {
@@ -194,7 +113,23 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
+      },
+      {
+        "id": "ae67c74fd7efe6e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36fec115f861ba36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,9 +155,10 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "cef943b9ca39215d",
+  "active": "4b99bd4068bcda55",
   "lastOpenFiles": [
     "06 Secrets/HSR.md",
+    "06 Secrets/Images/{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}.png",
     "07 Setup/Not Purchased Yet.md",
     "07 Setup/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
     "conflict-files-obsidian-git.md",
