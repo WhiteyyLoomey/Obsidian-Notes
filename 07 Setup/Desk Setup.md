@@ -1,5 +1,6 @@
 ---
 cssclasses:
+  - page-manila
 ---
 ## 1. Audio Interface
 
