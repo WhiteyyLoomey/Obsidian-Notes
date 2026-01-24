@@ -8,5 +8,6 @@
   },
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "openBehavior": "file:"
+  "openBehavior": "file:",
+  "promptDelete": false
 }
