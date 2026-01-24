@@ -5,7 +5,8 @@
   "interfaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
-    "Notebook Backgrounds"
+    "Notebook Backgrounds",
+    "CyanVoxel's General Tweaks"
   ],
   "textFontFamily": "JetBrains Mono"
 }

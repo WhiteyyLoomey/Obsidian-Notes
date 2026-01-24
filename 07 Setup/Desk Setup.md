@@ -1,6 +1,8 @@
 ---
 cssclasses:
-  - page-manila
+  - image-borders
+  - center-images
+  - center-titles
 ---
 ## 1. Audio Interface
 

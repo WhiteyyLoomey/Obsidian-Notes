@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Setup/Desk Setup.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desk Setup"
+              "title": "README"
             }
           }
         ]
@@ -165,16 +165,6 @@
             }
           },
           {
-            "id": "fdad554301993c37",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "d02a3a5cdb2dbc93",
             "type": "leaf",
             "state": {
@@ -195,7 +185,23 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
+      },
+      {
+        "id": "3081c75a2436f694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdad554301993c37",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,11 +227,12 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "c6edb51249a54fe0",
+  "active": "fdad554301993c37",
   "lastOpenFiles": [
+    "07 Setup/Desk Setup.md",
+    "2026-01-24.md",
     "07 Setup/Images/Pasted image 20260124201736.png",
     "06 Secrets/HSR.md",
-    "07 Setup/Desk Setup.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "07 Setup/Images",
