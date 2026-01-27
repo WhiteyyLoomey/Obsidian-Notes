@@ -126,6 +126,21 @@ D. When the ship was hit, it tilted to one side, so many lifeboats could not be 
 E. Under international law, if a ship carried military cargo, like bullets and shells, it could be treated as a war target, so the Lusitania was not protected like a normal passenger ship.
 
 
+**
+
+9. Write a response telegram from the Mexican President accepting or declining the proposal. Outline  your reasons for doing so, & let the Germans know what problems might be if you were to accept.  
+
+To: German Government  
+From: President of Mexico
+
+I am **sorry**, but I must say no to your plan.
+If we fight the United States, there will be a big, scary war on our land and many people could get hurt.
+Our country is not strong enough for a huge war, and we do not have enough weapons or soldiers.
+The United States is our neighbor, and if we attack them, they might be angry forever and hurt our towns and farms.
+Because of these problems, Mexico will stay out of this plan and will not join your war.
+
+
+
 
 
 Use the following code to decipher the Zimmerman Telegram, which was sent in  January 1917 from a German official named Zimmerman to the German ambassador  to Mexico. The coded telegram was intercepted by the British & leaked to the  American press, & was partially responsible for the US joining the Great War.  
