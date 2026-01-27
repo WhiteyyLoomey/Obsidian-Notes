@@ -108,9 +108,31 @@ Evidence D is supported by the prompt because it has multiple instances of evide
 
 Letter:
 
-Dear My Sweet Sweet Wemmbu, It's been a while, the trenches are horrible, the stench is overwhelming, I'm genuinely about to pass out!!!!! Everywhere I go I see rats, I have nightmares about them every night thinking they're gonna kill me 😩! I haven't showered since I got here and everyone I see is covered mud or blood 🩸, It's terrifying!!! The trenches are so uncomfortable I've never had a good nights sleep since I got here, yeah anyways pray for me.
+Dear My Sweet Sweet Mento, It's been a while, the trenches are horrible, the stench is overwhelming, I'm genuinely about to pass out!!!!! Everywhere I go I see rats, I have nightmares about them every night thinking they're gonna kill me 😩! I haven't showered since I got here and everyone I see is covered mud or blood 🩸, It's terrifying!!! The trenches are so uncomfortable I've never had a good nights sleep since I got here, yeah anyways pray for me.
+
+Yours ~~only~~ truly,
+Chungy
+
+**
+
+Use the following code to decipher the Zimmerman Telegram, which was sent in  January 1917 from a German official named Zimmerman to the German ambassador  to Mexico. The coded telegram was intercepted by the British & leaked to the  American press, & was partially responsible for the US joining the Great War.  
+
+Coded Decoded Coded Decoded Coded Decoded 
+
+|             |     |
+| ----------- | --- |
+| A N J I S W |     |
+| B M K S T D |     |
+| C O L H U X |     |
+| D L M T V C |     |
+| E P N G W Y |     |
+| F K O U X B |     |
+| G Q P F Y Z |     |
+| H J Q V Z A |     |
 
 
+
+**
 
 
 
