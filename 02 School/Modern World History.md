@@ -106,6 +106,7 @@ G. This image shows a tank in a ditch, it should be caused by a battle that made
 Evidence D is supported by the prompt because it has multiple instances of evidence that proves there were casualties in the trenches. Like how there were multiple dead bodies on the floor, showing the results of a battle.
 
 
+Letter:
 
 
 

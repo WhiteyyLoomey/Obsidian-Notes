@@ -11,28 +11,17 @@
             "id": "c6edb51249a54fe0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "05 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md"
+                "file": "02 School/Modern World History.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-08 12.20.02.excalidraw"
-            }
-          },
-          {
-            "id": "84a0cb702a27c764",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-25 23.06.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-25 23.06.40.excalidraw"
+              "icon": "lucide-file",
+              "title": "Modern World History"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,12 +155,15 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "ad45f0db79c607a5",
+  "active": "c6edb51249a54fe0",
   "lastOpenFiles": [
-    "05 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-25 23.06.40.excalidraw.md",
-    "Excalidraw",
+    "02 School/Life Science.md",
+    "02 School/Modern World History.md",
+    "02 School/Math.md",
     "07 Setup/Not Purchased Yet.md",
+    "Excalidraw/Drawing 2026-01-25 23.06.40.excalidraw.md",
+    "05 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
+    "Excalidraw",
     "03 Resources/Application of LAS & LAC.pdf",
     "06 Secrets/HSR.md",
     "conflict-files-obsidian-git.md",
@@ -200,12 +192,9 @@
     "07 Setup",
     "06 Secrets",
     "Untitled.canvas",
-    "02 School/Modern World History.md",
     "03 Resources/Unit 4 - Homework 6.pdf",
     "03 Resources/Unit 4 - Homework 3.pdf",
     "03 Resources/25 Cell Structures PPT.pdf",
-    "02 School/Math.md",
-    "02 School/Life Science.md",
     "05 Excalidraw/2025-11-21 08.19.17.excalidraw.md",
     "05 Excalidraw/2025-11-20 19.23.07.excalidraw.md",
     "202511202140.md",
