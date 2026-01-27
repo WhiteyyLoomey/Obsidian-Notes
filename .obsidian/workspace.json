@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "Not Purchased Yet"
             }
+          },
+          {
+            "id": "b7042d15d6d96b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 School/Modern World History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modern World History"
+            }
+          },
+          {
+            "id": "a5383bf5d2aa7bbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,6 +136,79 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5153431aa3518bea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "b0080c16d6f41744",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "c2736e672f97f4eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dcd103351e383a5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "1642f28f04091b9e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 1
@@ -155,17 +253,19 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "cef943b9ca39215d",
+  "active": "a5383bf5d2aa7bbb",
   "lastOpenFiles": [
+    "02 School/Modern World History.md",
+    "conflict-files-obsidian-git.md",
+    "07 Setup/Not Purchased Yet.md",
+    "05 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
     "Excalidraw/Drawing 2026-01-25 23.06.40.excalidraw.md",
     "03 Resources/Application of LAS & LAC.pdf",
     "011 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
     "011 Excalidraw",
     "06 Secrets/HSR.md",
-    "07 Setup/Not Purchased Yet.md",
     "06 Secrets/Images/{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}.png",
     "07 Setup/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
-    "conflict-files-obsidian-git.md",
     "07 Setup/Images/image.png",
     "07 Setup/Desk Setup.md",
     "07 Setup/Images/Pasted image 20260124205001.png",
