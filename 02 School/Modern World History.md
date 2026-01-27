@@ -134,7 +134,7 @@ To: German Government
 From: President of Mexico
 
 I am **sorry**, but I must say no to your plan.
-If we fight the United States, there will be a big, scary war on our land and many people could get hurt.
+If we fight the United States, there will be a big, terrible war on our land and many people could get hurt.
 Our country is not strong enough for a huge war, and we do not have enough weapons or soldiers.
 The United States is our neighbor, and if we attack them, they might be angry forever and hurt our towns and farms.
 Because of these problems, Mexico will stay out of this plan and will not join your war.
