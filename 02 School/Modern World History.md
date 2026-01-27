@@ -113,30 +113,33 @@ Dear My Sweet Sweet Mento, It's been a while, the trenches are horrible, the ste
 Yours ~~only~~ truly,
 Chungy
 
-**
+
+
+
+
+B.x
+C.
+D.
+E.
 
 Use the following code to decipher the Zimmerman Telegram, which was sent in  January 1917 from a German official named Zimmerman to the German ambassador  to Mexico. The coded telegram was intercepted by the British & leaked to the  American press, & was partially responsible for the US joining the Great War.  
 
 Coded Decoded Coded Decoded Coded Decoded 
 
-|             |     |
-| ----------- | --- |
-| A N J I S W |     |
-| B M K S T D |     |
-| C O L H U X |     |
-| D L M T V C |     |
-| E P N G W Y |     |
-| F K O U X B |     |
-| G Q P F Y Z |     |
-| H J Q V Z A |     |
+|                  |
+| ---------------- |
+| A  N  J  I  S  W |
+| B  M  K  S  T  D |
+| C  O  L  H  U  X |
+| D  L  M  T  V  C |
+| E  P  N  G  W  Y |
+| F  K  O  U  X  B |
+| G  Q  P  F  Y  Z |
+| H  J  Q  V  Z  A |
 
 
 
 **
-
-
-
-
 
 
 
