@@ -115,12 +115,18 @@ Chungy
 
 
 
+Germany thought the Lusitania was a fair target because it was carrying war supplies like bullets and shells to help Britain in the war.​
+
+B. Many people in the United States became very angry and sad after the Lusitania sank, because lots of innocent passengers were killed, so more people started to dislike Germany and support joining the war.
+
+C. The German government said the ship was okay to attack because it was bringing war materials to their enemy, so they saw it as a war ship, not just a passenger ship.
+
+D. When the ship was hit, it tilted to one side, so many lifeboats could not be used, and people had to jump down into lifeboats or the water, which was very scary and dangerous.​
+
+E. Under international law, if a ship carried military cargo, like bullets and shells, it could be treated as a war target, so the Lusitania was not protected like a normal passenger ship.
 
 
-B.x
-C.
-D.
-E.
+
 
 Use the following code to decipher the Zimmerman Telegram, which was sent in  January 1917 from a German official named Zimmerman to the German ambassador  to Mexico. The coded telegram was intercepted by the British & leaked to the  American press, & was partially responsible for the US joining the Great War.  
 
