@@ -108,7 +108,7 @@ Evidence D is supported by the prompt because it has multiple instances of evide
 
 Letter:
 
-Dear My Sweet Sweet Wemmbu, 
+Dear My Sweet Sweet Wemmbu, It's been a while, the trenches are horrible, the stench is overwhelming, I'm genuinely about to pass out!!!!! Everywhere I go I see rats, I have nightmares about them every night thinking they're gonna kill me 😩! I haven't showered since I got here and everyone I see is covered mud or blood 🩸, It's terrifying!!! The trenches are so uncomfortable I've never had a good nights sleep since I got here, yeah anyways pray for me.
 
 
 
