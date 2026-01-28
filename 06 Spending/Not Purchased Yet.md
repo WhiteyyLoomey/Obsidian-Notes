@@ -76,7 +76,7 @@ cssclasses:
 ##### <span style="color:rgb(255, 255, 0)">1. UGREEN Power</span>
 ![[image-2.png|310x311]]
 ==Price: HK$268==
-> Good portal charger able to charge a phone 1-2 twice at max power and could even 100% charge a Mac, extremely lightweight
+> Good portal charger able to charge a phone 1-2 twice at max power and could even 100% charge a Mac (20,000mAh) but 67 Watts only, extremely lightweight
 
 
 [2000Fun](https://www.openshop.com.hk/product_45164.html)
@@ -87,3 +87,11 @@ cssclasses:
 ==Price HK$ 399==
 > Affordable name-brand Airpods able to switch between devices easily (one of the issues my current airpods I have), doesn't fall off easily)
 
+[Anker](https://ankerhongkong.com/products/d1202?_pos=15&_fid=42a3c0b92&_ss=c)
+
+##### <span style="color:rgb(255, 255, 0)">3. Anker Power Bank</span> 
+![[{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}-1.png|360x402]]
+
+==Price HK$ 599==
+
+> More expensive but extremley high quality, 
