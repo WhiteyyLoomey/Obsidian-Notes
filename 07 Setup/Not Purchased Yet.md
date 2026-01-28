@@ -74,3 +74,9 @@ cssclasses:
 
 ## 5. Extra Shit
 ##### 1. UGREEN Power
+![[image-2.png|310x311]]
+==Price: 268==
+> Good portal charger able to charge a phone 1-2 twice at max power and could even 100% charge a Mac, extremely lightweight
+
+
+[2000Fun](https://www.openshop.com.hk/product_45164.html)
