@@ -46,11 +46,11 @@
   "01 Game Development/Ideas.md": "LiPencil",
   "04 Important/Birthday.md": "LiCake",
   "04 Important/Area.md": "LiHouse",
-  "06 Secrets": "LiKey",
-  "07 Setup": "LiBadgeCent",
   "010 Finance": "SiCashapp",
-  "07 Setup/Not Purchased Yet.md": "LiX",
   "04 Important/ToDo List.md": "LiListTodo",
   "99 Excalidraw": "SiExcalidraw",
-  "99 Templates": "LiLayoutTemplate"
+  "99 Templates": "LiLayoutTemplate",
+  "05 Secrets": "LiKey",
+  "06 Setup": "LiBadgeCent",
+  "06 Setup/Not Purchased Yet.md": "LiX"
 }

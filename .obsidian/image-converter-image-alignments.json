@@ -1,5 +1,5 @@
 {
-  "07 Setup/Not Purchased Yet.md": {
+  "06 Setup/Not Purchased Yet.md": {
     "3b032be0c0f5c5758aaba43ebd736894": {
       "position": "center",
       "width": "",
@@ -52,6 +52,14 @@
       "position": "center",
       "width": "310px",
       "height": "311px",
+      "wrap": false
+    }
+  },
+  "05 Secrets/HSR.md": {
+    "8c217daf65d6ba9657dcd796078f85f3": {
+      "position": "center",
+      "width": "",
+      "height": "",
       "wrap": false
     }
   }
