@@ -13,7 +13,7 @@
             "state": {
               "type": "ledger",
               "state": {
-                "file": "06 Setup/Accounts and Categories/Finance.ledger"
+                "file": "06 Spending/Accounts and Categories/Finance.ledger"
               },
               "icon": "ledger",
               "title": "Ledger"
@@ -25,7 +25,7 @@
             "state": {
               "type": "ledger",
               "state": {
-                "file": "06 Setup/Accounts and Categories/Finance.ledger"
+                "file": "06 Spending/Accounts and Categories/Finance.ledger"
               },
               "icon": "ledger",
               "title": "Ledger"
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06 Setup/Accounts and Categories/Finance.ledger"
+                "file": "06 Spending/Accounts and Categories/Finance.ledger"
               },
               "icon": "lucide-info",
               "title": "File properties for Finance"
@@ -198,8 +198,8 @@
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "Excalidraw",
-    "06 Setup/Accounts and Categories/Finance.ledger",
-    "06 Setup/Accounts and Categories/Untitled.md",
+    "06 Spending/Accounts and Categories/Finance.ledger",
+    "06 Spending/Accounts and Categories/Untitled.md",
     "Untitled.md",
     "Untitled.base",
     "04 Important/ToDo List.md",
@@ -228,19 +228,19 @@
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💵 Income Category Template.md",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💳 Account Template.md",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates",
-    "06 Setup/Accounts and Categories",
+    "06 Spending/Accounts and Categories",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Accounts and categories",
-    "06 Setup/Images/image-2.png",
-    "06 Setup/Images/image-1.png",
-    "06 Setup/Images/image 3.png",
-    "06 Setup/Images/image 2.png",
-    "06 Setup/Images/image 1.png",
+    "06 Spending/Images/image-2.png",
+    "06 Spending/Images/image-1.png",
+    "06 Spending/Images/image 3.png",
+    "06 Spending/Images/image 2.png",
+    "06 Spending/Images/image 1.png",
     "03 Resources/Application of LAS & LAC.pdf",
     "011 Excalidraw",
     "05 Secrets/Images/{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}.png",
-    "06 Setup/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
-    "06 Setup/Images/image.png",
-    "06 Setup/Images/Pasted image 20260124205001.png",
-    "06 Setup/Images/Pasted image 20260124204729.png"
+    "06 Spending/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
+    "06 Spending/Images/image.png",
+    "06 Spending/Images/Pasted image 20260124205001.png",
+    "06 Spending/Images/Pasted image 20260124204729.png"
   ]
 }
