@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Spending/Not Purchased Yet.md",
+                "file": "04 Important/ToDo List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Not Purchased Yet"
+              "title": "ToDo List"
             }
           }
         ],
@@ -142,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06 Spending/Not Purchased Yet.md"
+                "file": "04 Important/ToDo List.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Not Purchased Yet"
+              "title": "File properties for ToDo List"
             }
           }
         ],
@@ -198,6 +198,7 @@
   },
   "active": "bdf445a3e8a9bb0f",
   "lastOpenFiles": [
+    "06 Spending/Not Purchased Yet.md",
     "06 Spending/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}-1.png",
     "06 Spending/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}.png",
     "06 Spending/{9E48CD2B-7A70-4C94-9FCA-991BB81D209B}.png",
@@ -242,7 +243,6 @@
     "03 Resources/Application of LAS & LAC.pdf",
     "011 Excalidraw",
     "05 Secrets/Images/{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}.png",
-    "06 Spending/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
-    "06 Spending/Images/image.png"
+    "06 Spending/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png"
   ]
 }
