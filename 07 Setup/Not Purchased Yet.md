@@ -18,7 +18,7 @@ cssclasses:
 > IEMs perfect for video editing and gaming, it even looks good.
 [Price.com.hk](https://www.price.com.hk/product.php?p=656089)
 ##### <span style="color:rgb(255, 255, 0)">3. Tonor T30 Microphone</span>
-![|656x656](https://www.flightmusichk.com/cdn/shop/files/110.png-2.webp?v=1705009644&width=1646)
+![|268x268](https://www.flightmusichk.com/cdn/shop/files/110.png-2.webp?v=1705009644&width=1646)
 ==Price: HK$ 480==
 > Cheap Condensor Microphone, very budget friendly and only needs a USB to connect.
 [Flight](https://www.flightmusichk.com/products/tonor-tc30-usb)
