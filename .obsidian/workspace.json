@@ -22,35 +22,63 @@
             }
           },
           {
-            "id": "b7042d15d6d96b1f",
+            "id": "0255a7f7fd9df953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 School/Modern World History.md",
+                "file": "04 Important/ToDo List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modern World History"
+              "title": "ToDo List"
             }
           },
           {
-            "id": "a5383bf5d2aa7bbb",
+            "id": "4976215509a56d20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Setup/Not Purchased Yet.md",
+                "file": "07 Setup/Finance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Not Purchased Yet"
+              "title": "Finance"
+            }
+          },
+          {
+            "id": "52b187fa4126ec48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Setup/Accounts and Categories/💵 Cashback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💵 Cashback"
+            }
+          },
+          {
+            "id": "8693d43248c83126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Setup/Accounts and Categories/💳 Bank card 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💳 Bank card 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,17 +223,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "07 Setup/Accounts and Categories/💵 Cashback.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of 💵 Cashback"
             }
           },
           {
-            "id": "1642f28f04091b9e",
+            "id": "6c67eb3f33d4926a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -254,28 +282,56 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "protected-note:Block Obsidian": false,
       "obsidian-git:Open Git source control": false,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "templater-obsidian:Templater": false,
+      "modalforms:Edit forms": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "bb6efa631c7212f1",
   "lastOpenFiles": [
-    "07 Setup/Not Purchased Yet.md",
+    "07 Setup/Accounts and Categories/💳 Bank card 2.md",
     "conflict-files-obsidian-git.md",
-    "02 School/Modern World History.md",
-    "05 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-25 23.06.40.excalidraw.md",
+    "07 Setup/Accounts and Categories/🛒 Transport.md",
+    "07 Setup/Finance.md",
+    "07 Setup/Accounts and Categories/🛒 Rent.md",
+    "07 Setup/Accounts and Categories/💵 Salary.md",
+    "07 Setup/Accounts and Categories/💵 Cashback.md",
+    "07 Setup/Accounts and Categories/💳 Cash.md",
+    "07 Setup/Accounts and Categories/💳 Bank card 1.md",
+    "07 Setup/Accounts and Categories/💳 Bank deposit 2.md",
+    "99 Templates/Financial Accounting Template.md",
+    "99 Templates/💵 Income Category Template.md",
+    "99 Templates/💳 Account Template.md",
+    "99 Templates/🛒 Template flow category.md",
+    "99 Templates/Day page template.md",
+    "99 Templates",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/🛒 Template flow category.md",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💵 Income Category Template.md",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💳 Account Template.md",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/Financial Accounting Template.md",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/Day page template.md",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates",
+    "07 Setup/Accounts and Categories/🛒 Supermarkets.md",
+    "07 Setup/Accounts and Categories/🛒 Fast food.md",
+    "07 Setup/Accounts and Categories/💵 Interest on account.md",
+    "07 Setup/Accounts and Categories",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Accounts and categories/🛒 Transport.md",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Accounts and categories/🛒 Supermarkets.md",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Accounts and categories/🛒 Rent.md",
+    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Accounts and categories",
+    "07 Setup/Images/image-2.png",
+    "07 Setup/Images/image-1.png",
+    "07 Setup/Images/image 3.png",
+    "07 Setup/Images/image 2.png",
+    "07 Setup/Images/image 1.png",
     "03 Resources/Application of LAS & LAC.pdf",
-    "011 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
     "011 Excalidraw",
-    "06 Secrets/HSR.md",
     "06 Secrets/Images/{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}.png",
     "07 Setup/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
     "07 Setup/Images/image.png",
-    "07 Setup/Desk Setup.md",
     "07 Setup/Images/Pasted image 20260124205001.png",
-    "07 Setup/Images/Pasted image 20260124204729.png",
-    "07 Setup/Images/Pasted image 20260124204727.png",
-    "07 Setup/Images/Pasted image 20260124204407.png",
-    "07 Setup/Images/Pasted image 20260124201736.png"
+    "07 Setup/Images/Pasted image 20260124204729.png"
   ]
 }

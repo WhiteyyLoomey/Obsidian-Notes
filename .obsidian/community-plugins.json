@@ -9,5 +9,12 @@
   "protected-note",
   "obsidian-git",
   "media-extended",
-  "image-converter"
+  "image-converter",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "buttons",
+  "dataview",
+  "modalforms",
+  "obsidian42-brat",
+  "obsidian-projects"
 ]

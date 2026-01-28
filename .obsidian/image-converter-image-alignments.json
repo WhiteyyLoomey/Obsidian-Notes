@@ -14,8 +14,8 @@
     },
     "946efed4c89275a301d04ddf801b7c18": {
       "position": "center",
-      "width": "338px",
-      "height": "336px",
+      "width": "",
+      "height": "",
       "wrap": false
     },
     "6881e75ba0d3a1adac554c8209b43bbe": {
@@ -28,6 +28,30 @@
       "position": "center",
       "width": "408px",
       "height": "221px",
+      "wrap": false
+    },
+    "c743fa2e9f955f0fb9f6a953bbfd1452": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "30b02bded4dc8772d76c5daa178b06ac": {
+      "position": "center",
+      "width": "353px",
+      "height": "329px",
+      "wrap": false
+    },
+    "a03248d1b6682b2b17cca88145636759": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8b3b6a15f8613e4570d7cdadaa7b5fa2": {
+      "position": "center",
+      "width": "310px",
+      "height": "311px",
       "wrap": false
     }
   }
