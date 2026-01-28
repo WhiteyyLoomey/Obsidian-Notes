@@ -1,4 +1,5 @@
 {
+  "tutorialIndex": -1,
   "currencySymbol": "HK$",
   "ledgerFile": "transactions.ledger",
   "assetAccountsPrefix": "Assets",
