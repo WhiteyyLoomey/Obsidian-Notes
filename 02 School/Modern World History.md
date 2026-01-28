@@ -106,14 +106,61 @@ G. This image shows a tank in a ditch, it should be caused by a battle that made
 Evidence D is supported by the prompt because it has multiple instances of evidence that proves there were casualties in the trenches. Like how there were multiple dead bodies on the floor, showing the results of a battle.
 
 
+Letter:
+
+Dear My Sweet Sweet Mento, It's been a while, the trenches are horrible, the stench is overwhelming, I'm genuinely about to pass out!!!!! Everywhere I go I see rats, I have nightmares about them every night thinking they're gonna kill me 😩! I haven't showered since I got here and everyone I see is covered mud or blood 🩸, It's terrifying!!! The trenches are so uncomfortable I've never had a good nights sleep since I got here, yeah anyways pray for me.
+
+Yours ~~only~~ truly,
+Chungy
+
+
+
+Germany thought the Lusitania was a fair target because it was carrying war supplies like bullets and shells to help Britain in the war.​
+
+B. Many people in the United States became very angry and sad after the Lusitania sank, because lots of innocent passengers were killed, so more people started to dislike Germany and support joining the war.
+
+C. The German government said the ship was okay to attack because it was bringing war materials to their enemy, so they saw it as a war ship, not just a passenger ship.
+
+D. When the ship was hit, it tilted to one side, so many lifeboats could not be used, and people had to jump down into lifeboats or the water, which was very scary and dangerous.​
+
+E. Under international law, if a ship carried military cargo, like bullets and shells, it could be treated as a war target, so the Lusitania was not protected like a normal passenger ship.
+
+
+**
+
+9. Write a response telegram from the Mexican President accepting or declining the proposal. Outline  your reasons for doing so, & let the Germans know what problems might be if you were to accept.  
+
+To: German Government  
+From: President of Mexico
+
+I am **sorry**, but I must say no to your plan.
+If we fight the United States, there will be a big, terrible war on our land and many people could get hurt.
+Our country is not strong enough for a huge war, and we do not have enough weapons or soldiers.
+The United States is our neighbor, and if we attack them, they might be angry forever and hurt our towns and farms.
+Because of these problems, Mexico will stay out of this plan and will not join your war.
 
 
 
 
 
+Use the following code to decipher the Zimmerman Telegram, which was sent in  January 1917 from a German official named Zimmerman to the German ambassador  to Mexico. The coded telegram was intercepted by the British & leaked to the  American press, & was partially responsible for the US joining the Great War.  
+
+Coded Decoded Coded Decoded Coded Decoded 
+
+|                  |
+| ---------------- |
+| A  N  J  I  S  W |
+| B  M  K  S  T  D |
+| C  O  L  H  U  X |
+| D  L  M  T  V  C |
+| E  P  N  G  W  Y |
+| F  K  O  U  X  B |
+| G  Q  P  F  Y  Z |
+| H  J  Q  V  Z  A |
 
 
 
+**
 
 
 
