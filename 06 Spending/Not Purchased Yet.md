@@ -75,8 +75,15 @@ cssclasses:
 ## 5. Extra Shit
 ##### <span style="color:rgb(255, 255, 0)">1. UGREEN Power</span>
 ![[image-2.png|310x311]]
-==Price: 268==
+==Price: HK$268==
 > Good portal charger able to charge a phone 1-2 twice at max power and could even 100% charge a Mac, extremely lightweight
 
 
 [2000Fun](https://www.openshop.com.hk/product_45164.html)
+
+##### <span style="color:rgb(255, 255, 0)">2. Anker Soundcore R60i Earbuds</span> 
+![[{9E48CD2B-7A70-4C94-9FCA-991BB81D209B}.png|386x390]]
+
+==Price HK$ 399==
+> Affordable name-brand Airpods able to switch between devices easily (one of the issues my current airpods I have), doesn't fall off easily)
+

@@ -23,12 +23,14 @@
             "id": "bdf445a3e8a9bb0f",
             "type": "leaf",
             "state": {
-              "type": "ledger",
+              "type": "markdown",
               "state": {
-                "file": "06 Spending/Accounts and Categories/Finance.ledger"
+                "file": "06 Spending/Not Purchased Yet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "ledger",
-              "title": "Ledger"
+              "icon": "lucide-file",
+              "title": "Not Purchased Yet"
             }
           }
         ],
@@ -140,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06 Spending/Accounts and Categories/Finance.ledger"
+                "file": "06 Spending/Not Purchased Yet.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Finance"
+              "title": "File properties for Not Purchased Yet"
             }
           }
         ],
@@ -194,11 +196,12 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "533fe8e4a35d64f4",
+  "active": "bdf445a3e8a9bb0f",
   "lastOpenFiles": [
+    "06 Spending/{9E48CD2B-7A70-4C94-9FCA-991BB81D209B}.png",
+    "06 Spending/Accounts and Categories/Finance.ledger",
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "Excalidraw",
-    "06 Spending/Accounts and Categories/Finance.ledger",
     "06 Spending/Accounts and Categories/Untitled.md",
     "Untitled.md",
     "Untitled.base",
@@ -226,7 +229,6 @@
     "99 Templates",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/🛒 Template flow category.md",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💵 Income Category Template.md",
-    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💳 Account Template.md",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates",
     "06 Spending/Accounts and Categories",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Accounts and categories",
