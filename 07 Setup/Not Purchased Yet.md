@@ -64,3 +64,5 @@ cssclasses:
 
 
 [2000Fun](https://www.openshop.com.hk/product_41430.htmla)
+
+##### 2. Logitech G Pro Superstrike
