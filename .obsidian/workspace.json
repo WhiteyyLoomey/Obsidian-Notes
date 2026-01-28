@@ -155,8 +155,10 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "c6edb51249a54fe0",
+  "active": "ad45f0db79c607a5",
   "lastOpenFiles": [
+    "07 Setup/Images/image 2.png",
+    "07 Setup/Images/image 1.png",
     "02 School/Modern World History.md",
     "05 Excalidraw/Drawing 2025-12-02 22.48.42.excalidraw.md",
     "02 School/Math.md",
@@ -171,7 +173,6 @@
     "conflict-files-obsidian-git.md",
     "07 Setup/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
     "07 Setup/Images/image.png",
-    "07 Setup/image.png",
     "07 Setup/Images/Pasted image 20260124205001.png",
     "07 Setup/Images/Pasted image 20260124204729.png",
     "07 Setup/Images/Pasted image 20260124204727.png",
@@ -202,7 +203,6 @@
     "202511200902.md",
     "2025-11-20.md",
     "School/Untitled.md",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }

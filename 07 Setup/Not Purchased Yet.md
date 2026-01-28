@@ -18,7 +18,7 @@ cssclasses:
 > IEMs perfect for video editing and gaming, it even looks good.
 [Price.com.hk](https://www.price.com.hk/product.php?p=656089)
 ##### <span style="color:rgb(255, 255, 0)">3. Tonor T30 Microphone</span>
-![|262x262](https://www.flightmusichk.com/cdn/shop/files/110.png-2.webp?v=1705009644&width=1646)
+![|656x656](https://www.flightmusichk.com/cdn/shop/files/110.png-2.webp?v=1705009644&width=1646)
 ==Price: HK$ 480==
 > Cheap Condensor Microphone, very budget friendly and only needs a USB to connect.
 [Flight](https://www.flightmusichk.com/products/tonor-tc30-usb)
@@ -26,7 +26,7 @@ cssclasses:
 ## 2. USB Sockets
 
 ##### <span style="color:rgb(255, 255, 0)">1. NK Modular Independent Switch Socket</span>
-![[image.png|365x365]]
+![[image 2.png|353x329]]
 ==Price: HK$ 489==
 > Used for more USB connections, can connect Lightbar to it so the strings wont break when I lift the desk up.
 
@@ -65,4 +65,10 @@ cssclasses:
 
 [2000Fun](https://www.openshop.com.hk/product_41430.htmla)
 
-##### 2. Logitech G Pro Superstrike
+##### <span style="color:rgb(255, 255, 0)">2. Logitech G Pro Superstrike</span>
+![[image 1.png|418x413]]
+==Price: HK$ 1399==
+> Lighting gaming mouse yet, 8k wireless polling rate and weights 56g.
+
+[2000Fun](https://www.openshop.com.hk/product_44965.html#)
+
