@@ -72,7 +72,7 @@ cssclasses:
 
 [2000Fun](https://www.openshop.com.hk/product_44965.html#)
 
-## 5. Extra Shit
+## 5. Tech Shit
 ##### <span style="color:rgb(255, 255, 0)">1. UGREEN Power</span>
 ![[image-2.png|310x311]]
 ==Price: HK$268==
@@ -94,4 +94,7 @@ cssclasses:
 
 ==Price HK$ 599==
 
-> More expensive but extremley high quality, 25,000 mAh can charge multiple devices at max, and has a built in retractable cable. Even has a hook for convenience and a giant screen.
+> More expensive but extremeley high quality, 25,000 mAh can charge multiple devices at max, and has a built in retractable cable. Even has a hook for convenience and a giant screen. And is 165W so it instantly charges a MacBook at max speed.
+
+[Anker](https://ankerhongkong.com/products/a1695?variant=46378289823918)
+
