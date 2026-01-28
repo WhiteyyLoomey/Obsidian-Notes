@@ -94,4 +94,4 @@ cssclasses:
 
 ==Price HK$ 599==
 
-> More expensive but extremley high quality, 
+> More expensive but extremley high quality, 25,000 mAh can charge multiple devices at max, and has a built in retractable cable. Even has a hook for convenience and a giant screen.
