@@ -1,54 +1,54 @@
 {
   "main": {
-    "id": "61ff36e0b21a984e",
+    "id": "e1865543ccdda337",
     "type": "split",
     "children": [
       {
-        "id": "ea6eafdfa03a769d",
+        "id": "4ff8569d95b92b8b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae980b13090c5da2",
-            "type": "leaf",
-            "state": {
-              "type": "ledger",
-              "state": {
-                "file": "06 Spending/Accounts and Categories/Finance.ledger"
-              },
-              "icon": "ledger",
-              "title": "Ledger"
-            }
-          },
-          {
-            "id": "bdf445a3e8a9bb0f",
+            "id": "c6edb51249a54fe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Important/ToDo List.md",
+                "file": "02 School/Modern World History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo List"
+              "title": "Modern World History"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f46bdd63eb217908",
+    "id": "22214dfaee0d489e",
     "type": "split",
     "children": [
       {
-        "id": "f5240d4047e18bc8",
+        "id": "e938b302dbaa0cac",
         "type": "tabs",
         "children": [
           {
-            "id": "1856e76e62956830",
+            "id": "ad45f0db79c607a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0a208d20b7397cf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "141ad710a83d2c8b",
+            "id": "a722bd4707bbea86",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,37 +73,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "533fe8e4a35d64f4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "5d1763eba2e121f6",
+    "id": "b36e3f278df17ca3",
     "type": "split",
     "children": [
       {
-        "id": "0d55845f6961bf74",
+        "id": "52af0aed86227aff",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e4ac48f2d28b23",
+            "id": "a9897d977baaf75c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -117,7 +103,7 @@
             }
           },
           {
-            "id": "4b99bd4068bcda55",
+            "id": "2050db13a2fec6b8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -125,38 +111,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "8693d43248c83126",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "21ec62a3151485c2",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "04 Important/ToDo List.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for ToDo List"
-            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "ae67c74fd7efe6e5",
+        "id": "3081c75a2436f694",
         "type": "tabs",
         "children": [
           {
-            "id": "36fec115f861ba36",
+            "id": "fdad554301993c37",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -169,80 +133,76 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": true,
-      "bases:Create new base": true,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "pdf-plus:PDF++: Toggle auto-copy": true,
-      "pdf-plus:PDF++: Toggle auto-focus": true,
-      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "protected-note:Block Obsidian": false,
       "obsidian-git:Open Git source control": false,
-      "media-extended:Open external media": false,
-      "templater-obsidian:Templater": true,
-      "modalforms:Edit forms": true,
-      "obsidian42-brat:BRAT": true,
-      "obsidian-projects:Open projects": true,
-      "ledger-obsidian:Add to Ledger": false
+      "media-extended:Open external media": false
     }
   },
-  "active": "bdf445a3e8a9bb0f",
+  "active": "c6edb51249a54fe0",
   "lastOpenFiles": [
-    "06 Spending/Not Purchased Yet.md",
-    "06 Spending/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}-1.png",
-    "06 Spending/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}.png",
-    "06 Spending/{9E48CD2B-7A70-4C94-9FCA-991BB81D209B}.png",
-    "06 Spending/Accounts and Categories/Finance.ledger",
+    "07 Setup/Not Purchased Yet.md",
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "Excalidraw",
-    "06 Spending/Accounts and Categories/Untitled.md",
-    "Untitled.md",
-    "Untitled.base",
-    "04 Important/ToDo List.md",
-    "06 Setup/Accounts and Categories/transactions.ledger",
-    "README.md",
-    "05 Secrets/HSR.md",
-    "05 Secrets/Github.md",
-    "Financial Accounting. Expense Categories.md",
-    "07 Setup/Accounts and Categories/💳 Bank card 2.md",
-    "07 Setup/Accounts and Categories/💳 Bank card 1.md",
-    "07 Setup/Accounts and Categories/💵 Cashback.md",
-    "conflict-files-obsidian-git.md",
-    "07 Setup/Accounts and Categories/🛒 Transport.md",
-    "07 Setup/Finance.md",
-    "07 Setup/Accounts and Categories/🛒 Rent.md",
-    "07 Setup/Accounts and Categories/💵 Salary.md",
-    "07 Setup/Accounts and Categories/💳 Cash.md",
-    "07 Setup/Accounts and Categories/💳 Bank deposit 2.md",
-    "99 Templates/Financial Accounting Template.md",
+    "99 Templates/🛒 Template flow category.md",
     "99 Templates/💵 Income Category Template.md",
     "99 Templates/💳 Account Template.md",
-    "99 Templates/🛒 Template flow category.md",
+    "99 Templates/Financial Accounting Template.md",
     "99 Templates/Day page template.md",
     "99 Templates",
-    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/🛒 Template flow category.md",
-    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💵 Income Category Template.md",
-    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates",
-    "06 Spending/Accounts and Categories",
-    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Accounts and categories",
+    "99 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
+    "99 Excalidraw/Drawing 2025-12-02 22.48.42.excalidraw.md",
+    "99 Excalidraw/Drawing 2025-11-27 12.39.52.excalidraw.md",
+    "99 Excalidraw/2025-11-21 08.19.17.excalidraw.md",
+    "99 Excalidraw/2025-11-20 19.23.07.excalidraw.md",
+    "99 Excalidraw",
+    "06 Spending/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
+    "06 Spending/Images/image.png",
     "06 Spending/Images/image-2.png",
     "06 Spending/Images/image-1.png",
     "06 Spending/Images/image 3.png",
     "06 Spending/Images/image 2.png",
     "06 Spending/Images/image 1.png",
+    "06 Spending/Images/Pasted image 20260124205001.png",
+    "06 Spending/Images/Pasted image 20260124204727.png",
+    "06 Spending/Images/Pasted image 20260124204729.png",
+    "06 Spending/Accounts and Categories/Finance.ledger",
+    "06 Spending/Accounts and Categories/Untitled.md",
+    "06 Spending/Not Purchased Yet.md",
+    "06 Spending/Images",
+    "06 Spending/Accounts and Categories",
+    "06 Spending",
+    "05 Secrets/Images",
+    "05 Secrets/HSR.md",
+    "05 Secrets/Github.md",
+    "05 Secrets",
+    "04 Important/ToDo List.md",
+    "02 School/Modern World History.md",
+    "05 Excalidraw/Drawing 2025-12-02 22.48.42.excalidraw.md",
+    "02 School/Math.md",
+    "README.md",
+    "02 School/Life Science.md",
+    "Excalidraw/Drawing 2026-01-25 23.06.40.excalidraw.md",
+    "05 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
     "03 Resources/Application of LAS & LAC.pdf",
-    "011 Excalidraw",
-    "05 Secrets/Images/{B91027ED-92CB-4F4A-B03D-76910EFFBAAA}.png",
-    "06 Spending/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png"
+    "06 Secrets/HSR.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas"
   ]
 }

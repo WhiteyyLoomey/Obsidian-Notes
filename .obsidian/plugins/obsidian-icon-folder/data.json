@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLayoutTemplate",
-      "LiBanknote",
-      "LiListTodo",
       "LiX",
-      "SiCashapp"
+      "SiCashapp",
+      "LiBadgeCent",
+      "LiKey",
+      "LiHouse"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,11 +46,5 @@
   "01 Game Development/Ideas.md": "LiPencil",
   "04 Important/Birthday.md": "LiCake",
   "04 Important/Area.md": "LiHouse",
-  "010 Finance": "SiCashapp",
-  "04 Important/ToDo List.md": "LiListTodo",
-  "99 Excalidraw": "SiExcalidraw",
-  "99 Templates": "LiLayoutTemplate",
-  "05 Secrets": "LiKey",
-  "06 Spending": "LiBadgeCent",
-  "06 Spending/Not Purchased Yet.md": "LiX"
+  "010 Finance": "SiCashapp"
 }
