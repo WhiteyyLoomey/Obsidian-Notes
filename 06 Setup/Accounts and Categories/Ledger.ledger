@@ -21,8 +21,9 @@ alias i=Income
 
 2026-01-28 Starting Balances
     ; Add a line for each bank account or credit card
-    c:Chase                   $-250.45
-    b:BankOfAmerica    $450.27
+    c:Octopus                   $0
+    b:AlipayHK    HK$268.81
+    b:Paypal    $0.00
     StartingBalance      ; Leave this line alone
 
 ; I highly recommend reading through the Ledger documentation about the basics

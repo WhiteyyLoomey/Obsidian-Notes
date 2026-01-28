@@ -4,35 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c0235f43091e6d5d",
+        "id": "ea6eafdfa03a769d",
         "type": "tabs",
         "children": [
           {
-            "id": "cef943b9ca39215d",
+            "id": "ae980b13090c5da2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ledger",
               "state": {
-                "file": "07 Setup/Not Purchased Yet.md",
-                "mode": "source",
-                "source": false
+                "file": "06 Setup/Accounts and Categories/Ledger.ledger"
               },
-              "icon": "lucide-file",
-              "title": "Not Purchased Yet"
+              "icon": "ledger",
+              "title": "Ledger"
             }
           },
           {
-            "id": "0255a7f7fd9df953",
+            "id": "bdf445a3e8a9bb0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ledger.ledger",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ledger"
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ],
@@ -75,8 +69,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "533fe8e4a35d64f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,9 +204,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "21ec62a3151485c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       },
       {
         "id": "ae67c74fd7efe6e5",
@@ -245,13 +263,17 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "0255a7f7fd9df953",
+  "active": "bdf445a3e8a9bb0f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
+    "Excalidraw",
+    "06 Setup/Accounts and Categories/Ledger.ledger",
+    "06 Setup/Accounts and Categories/Untitled.md",
+    "Untitled.md",
+    "Untitled.base",
     "04 Important/ToDo List.md",
     "06 Setup/Accounts and Categories/transactions.ledger",
-    "Ledger.ledger",
     "README.md",
-    "06 Setup/Accounts and Categories/Untitled.md",
     "05 Secrets/HSR.md",
     "05 Secrets/Github.md",
     "Financial Accounting. Expense Categories.md",
@@ -274,8 +296,6 @@
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/🛒 Template flow category.md",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💵 Income Category Template.md",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/💳 Account Template.md",
-    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/Financial Accounting Template.md",
-    "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates/Day page template.md",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Templates",
     "06 Setup/Accounts and Categories",
     "Fertion Obsidian_finance e61d360a81465551ab6604524c633e9fd1ad4e3f Accounts and categories",
