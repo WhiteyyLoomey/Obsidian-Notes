@@ -13,7 +13,7 @@
             "state": {
               "type": "ledger",
               "state": {
-                "file": "06 Setup/Accounts and Categories/Ledger.ledger"
+                "file": "06 Setup/Accounts and Categories/Finance.ledger"
               },
               "icon": "ledger",
               "title": "Ledger"
@@ -23,10 +23,12 @@
             "id": "bdf445a3e8a9bb0f",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "ledger",
+              "state": {
+                "file": "06 Setup/Accounts and Categories/Finance.ledger"
+              },
+              "icon": "ledger",
+              "title": "Ledger"
             }
           }
         ],
@@ -123,79 +125,6 @@
             }
           },
           {
-            "id": "5153431aa3518bea",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "b0080c16d6f41744",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "c2736e672f97f4eb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "dcd103351e383a5d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "07 Setup/Accounts and Categories/💵 Cashback.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 💵 Cashback"
-            }
-          },
-          {
-            "id": "6c67eb3f33d4926a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
             "id": "8693d43248c83126",
             "type": "leaf",
             "state": {
@@ -210,13 +139,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "06 Setup/Accounts and Categories/Finance.ledger"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Finance"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       },
       {
         "id": "ae67c74fd7efe6e5",
@@ -240,34 +171,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": true,
+      "bases:Create new base": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
       "protected-note:Block Obsidian": false,
       "obsidian-git:Open Git source control": false,
       "media-extended:Open external media": false,
-      "templater-obsidian:Templater": false,
-      "modalforms:Edit forms": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": true,
+      "modalforms:Edit forms": true,
+      "obsidian42-brat:BRAT": true,
+      "obsidian-projects:Open projects": true,
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "bdf445a3e8a9bb0f",
+  "active": "533fe8e4a35d64f4",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "Excalidraw",
-    "06 Setup/Accounts and Categories/Ledger.ledger",
+    "06 Setup/Accounts and Categories/Finance.ledger",
     "06 Setup/Accounts and Categories/Untitled.md",
     "Untitled.md",
     "Untitled.base",
