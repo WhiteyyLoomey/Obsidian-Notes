@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 School/Modern World History.md",
+                "file": "06 Spending/Not Purchased Yet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modern World History"
+              "title": "Not Purchased Yet"
             }
           }
         ]
@@ -155,8 +155,10 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "c6edb51249a54fe0",
+  "active": "ad45f0db79c607a5",
   "lastOpenFiles": [
+    "06 Spending/Images/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}.png",
+    "02 School/Modern World History.md",
     "07 Setup/Not Purchased Yet.md",
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "Excalidraw",
@@ -182,18 +184,17 @@
     "06 Spending/Images/Pasted image 20260124205001.png",
     "06 Spending/Images/Pasted image 20260124204727.png",
     "06 Spending/Images/Pasted image 20260124204729.png",
-    "06 Spending/Accounts and Categories/Finance.ledger",
-    "06 Spending/Accounts and Categories/Untitled.md",
+    "010 Finance/Accounts and Categories/Finance.ledger",
+    "010 Finance/Accounts and Categories/Untitled.md",
     "06 Spending/Not Purchased Yet.md",
     "06 Spending/Images",
-    "06 Spending/Accounts and Categories",
+    "010 Finance/Accounts and Categories",
     "06 Spending",
     "05 Secrets/Images",
     "05 Secrets/HSR.md",
     "05 Secrets/Github.md",
     "05 Secrets",
     "04 Important/ToDo List.md",
-    "02 School/Modern World History.md",
     "05 Excalidraw/Drawing 2025-12-02 22.48.42.excalidraw.md",
     "02 School/Math.md",
     "README.md",
@@ -202,7 +203,6 @@
     "05 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
     "03 Resources/Application of LAS & LAC.pdf",
     "06 Secrets/HSR.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas"
   ]
 }
