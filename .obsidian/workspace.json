@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Not Purchased Yet"
             }
+          },
+          {
+            "id": "3578c32c313bbe4b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-29 12.34.34.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,9 +168,10 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "c6edb51249a54fe0",
+  "active": "3578c32c313bbe4b",
   "lastOpenFiles": [
     "06 Spending/Not Purchased Yet.md",
+    "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md",
     "06 Spending/Images/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}.png",
     "02 School/Modern World History.md",
     "07 Setup/Not Purchased Yet.md",
