@@ -1,4 +1,4 @@
 - [ ] #todo Trigonometry Project [Classroom](https://classroom.google.com/u/3/c/Nzk4OTM5Mjc3MTY1/a/ODQxNjg4MDQ2MTQw/details) 🛫 2026-01-29 📅 2026-02-02
 - [x] #todo Find great airpod substitudes 🔽 ✅ 2026-01-28
 - [ ] #todo Configure Premiere Pro Stream Deck profile 🆔 bcp5i7 🔽 📅 2026-01-30
-- [ ] #todo Setup Photoshop ⛔ bcp5i7 🔽 📅 2026-01-31
+- [x] #todo Setup Photoshop ⛔ bcp5i7 🔽 📅 2026-01-31

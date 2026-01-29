@@ -25,12 +25,14 @@
             "id": "3578c32c313bbe4b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md"
+                "file": "06 Spending/Not Purchased Yet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-29 12.34.34.excalidraw"
+              "icon": "lucide-file",
+              "title": "Not Purchased Yet"
             }
           }
         ],
@@ -170,10 +172,14 @@
   },
   "active": "3578c32c313bbe4b",
   "lastOpenFiles": [
-    "06 Spending/Not Purchased Yet.md",
-    "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md",
-    "06 Spending/Images/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}.png",
     "02 School/Modern World History.md",
+    "04 Important/ToDo List.md",
+    "04 Important/Birthday.md",
+    "01 Game Development/Ideas.md",
+    "01 Game Development/Enemies.md",
+    "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md",
+    "06 Spending/Not Purchased Yet.md",
+    "06 Spending/Images/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}.png",
     "07 Setup/Not Purchased Yet.md",
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "Excalidraw",
@@ -207,15 +213,11 @@
     "05 Secrets/HSR.md",
     "05 Secrets/Github.md",
     "05 Secrets",
-    "04 Important/ToDo List.md",
     "05 Excalidraw/Drawing 2025-12-02 22.48.42.excalidraw.md",
     "02 School/Math.md",
     "README.md",
     "02 School/Life Science.md",
-    "Excalidraw/Drawing 2026-01-25 23.06.40.excalidraw.md",
-    "05 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
     "03 Resources/Application of LAS & LAC.pdf",
-    "06 Secrets/HSR.md",
     "Untitled.canvas"
   ]
 }
