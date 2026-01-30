@@ -184,9 +184,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "9a3147bd7ca6ff65",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "3081c75a2436f694",
@@ -231,10 +241,11 @@
       "obsidian-projects:Open projects": false,
       "obsidian42-brat:BRAT": false,
       "ledger-obsidian:Add to Ledger": false,
-      "modalforms:Edit forms": false
+      "modalforms:Edit forms": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3578c32c313bbe4b",
+  "active": "9a3147bd7ca6ff65",
   "lastOpenFiles": [
     "010 Finance/Recipes.md",
     "010 Finance/Spends.md",
