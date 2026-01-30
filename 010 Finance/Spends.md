@@ -6,7 +6,9 @@
 | MTR:    | 10.8 | 10.8 | <span style="color:rgb(255, 0, 0)">18.3</span> | 10.8 | 10.8 | 0   | 0   | 61.5   |
 | Food:   | 21   | 0    | 42                                             | 0    | 21   | 0   | 0   | 84     |
 | Social: | 0    | 0    | 0                                              | 60   | 0    | 0   | 0   | 60     |
-
+### Grand Total:
+> Weekly: HK$205.5
+> Monthly: (<span style="color:rgb(0, 176, 80)">4 Weeks</span> - HK$822) (<span style="color:rgb(0, 176, 80)">5 Weeks</span> - HK$1,027.5)
 ## Subscriptions:
 
 | Sunday | Monday                     | Tuesday                    | Wednesday | Thursday                   | Friday | Saturday |
@@ -16,3 +18,6 @@
 | 11     | 12                         | 13                         | 14        | 15                         | 16     | 17       |
 | 18     | 19<br>Godlike: HK$187.31   | 20                         | 21        | 22<br>Youtube:<br>HK$5.00  | 23     | 24       |
 | 25     | 26<br>Youtube:<br>HK$25.00 | 27<br>Youtube:<br>HK$50.00 | 28        | 29                         | 30     | 31       |
+Grand Total:
+> Weekly: HK$ 74.635
+ Monthly: HK$298.54
