@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 Finance/Accounts and Categories/Spends.md",
+                "file": "06 Spending/Not Purchased Yet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spends"
+              "title": "Not Purchased Yet"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 Finance/Accounts and Categories/Spends.md",
+                "file": "010 Finance/Income.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spends"
+              "title": "Income"
             }
           }
         ],
@@ -186,9 +186,10 @@
   },
   "active": "ad45f0db79c607a5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-30 19.45.31.excalidraw.md",
-    "010 Finance/Accounts and Categories/Spends.md",
     "06 Spending/Not Purchased Yet.md",
+    "010 Finance/Spends.md",
+    "010 Finance/Income.md",
+    "Excalidraw/Drawing 2026-01-30 19.45.31.excalidraw.md",
     "02 School/Modern World History.md",
     "04 Important/ToDo List.md",
     "04 Important/Birthday.md",
@@ -230,7 +231,6 @@
     "05 Secrets",
     "05 Excalidraw/Drawing 2025-12-02 22.48.42.excalidraw.md",
     "02 School/Math.md",
-    "README.md",
     "03 Resources/Application of LAS & LAC.pdf",
     "Untitled.canvas"
   ]
