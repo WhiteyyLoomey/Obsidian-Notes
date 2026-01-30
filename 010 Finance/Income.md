@@ -6,6 +6,8 @@ Allowance: HK$300
 | Need      | HK$150 |
 | Want      | HK$60  |
 | Savings   | HK$90  |
+
+```sql-seals
 TABLE finances = table(0)
 
 CHART {
@@ -13,4 +15,4 @@ CHART {
 		type: 'pie'
 	}]
 }
-SELECT * FROM finances
+```
