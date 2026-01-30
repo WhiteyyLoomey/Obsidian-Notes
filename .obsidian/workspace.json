@@ -109,9 +109,82 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "fb432c709e3cb3d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Excel 2026-01-30 21.26.42.sheet"
+            }
+          },
+          {
+            "id": "690e6eddde78b2be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Excel 2026-01-30 21.26.42.sheet"
+            }
+          },
+          {
+            "id": "bb6f1569086ead4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df42db2505a2defd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Excel 2026-01-30 21.26.42.sheet"
+            }
+          },
+          {
+            "id": "513aa9fb24eb8711",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "3081c75a2436f694",
@@ -154,7 +227,7 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "ad45f0db79c607a5",
+  "active": "3578c32c313bbe4b",
   "lastOpenFiles": [
     "010 Finance/Spends.md",
     "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
