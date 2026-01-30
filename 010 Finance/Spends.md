@@ -1,11 +1,13 @@
 
-# Budget:
+# <span style="color:rgb(255, 255, 0)">Budget:</span>
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-
-
+| <span style="color:rgb(0, 176, 80)">Items:</span> | <span style="color:rgb(0, 176, 80)">HK$</span> |
+| ------------------------------------------------- | ---------------------------------------------- |
+| Transport                                         | 61.5                                           |
+| Food                                              | 84                                             |
+| Social                                            | 60                                             |
+| Subscription:                                     | 75                                             |
+| Total:                                            | 280.5                                          |
 
 ## Octopus (Details):
 
@@ -29,3 +31,5 @@
 ### Grand Total:
 > Weekly: HK$ 74.635
   Monthly: HK$298.54
+
+## Wants:
