@@ -1,6 +1,13 @@
 
+# Budget:
 
-## Octopus:
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+
+
+
+## Octopus (Details):
 
 | Week:   | Mon  | Tue  | Wed                                            | Thu  | Fri  | Sat | Sun | Total: |
 | ------- | ---- | ---- | ---------------------------------------------- | ---- | ---- | --- | --- | ------ |
@@ -10,7 +17,7 @@
 ### Grand Total:
 > Weekly: HK$205.5
 > Monthly: (<span style="color:rgb(0, 176, 80)">4 Weeks</span> - HK$822) (<span style="color:rgb(0, 176, 80)">5 Weeks</span> - HK$1,027.5)
-## Subscriptions:
+## Subscriptions (Details):
 
 | Sunday | Monday                     | Tuesday                    | Wednesday | Thursday                   | Friday | Saturday |
 | ------ | -------------------------- | -------------------------- | --------- | -------------------------- | ------ | -------- |
