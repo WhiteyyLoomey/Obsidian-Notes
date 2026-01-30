@@ -18,6 +18,6 @@
 | 11     | 12                         | 13                         | 14        | 15                         | 16     | 17       |
 | 18     | 19<br>Godlike: HK$187.31   | 20                         | 21        | 22<br>Youtube:<br>HK$5.00  | 23     | 24       |
 | 25     | 26<br>Youtube:<br>HK$25.00 | 27<br>Youtube:<br>HK$50.00 | 28        | 29                         | 30     | 31       |
-Grand Total:
+### Grand Total:
 > Weekly: HK$ 74.635
- Monthly: HK$298.54
+  Monthly: HK$298.54
