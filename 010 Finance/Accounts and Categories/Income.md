@@ -1,5 +1,5 @@
 
-Octopus
+## Octopus
 
 | Week:   | Mon  | Tue  | Wed                                            | Thu  | Fri  | Sat | Sun | Total: |
 | ------- | ---- | ---- | ---------------------------------------------- | ---- | ---- | --- | --- | ------ |
@@ -8,7 +8,7 @@ Octopus
 | Social: | 0    | 0    | 0                                              | 60   | 0    | 0   | 0   | 60     |
 
 Subscriptions:
-## January 2026
+## Subscriptions
 
 | Sunday | Monday                   | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------ | ------------------------ | ------- | --------- | -------- | ------ | -------- |
