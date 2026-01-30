@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 Finance/Accounts and Categories/Income.md",
+                "file": "010 Finance/Accounts and Categories/Spends.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Income"
+              "title": "Spends"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 Finance/Accounts and Categories/Income.md",
+                "file": "010 Finance/Accounts and Categories/Spends.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Income"
+              "title": "Spends"
             }
           }
         ],
@@ -184,10 +184,10 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "a865a091438e5364",
+  "active": "ad45f0db79c607a5",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 19.45.31.excalidraw.md",
-    "010 Finance/Accounts and Categories/Income.md",
+    "010 Finance/Accounts and Categories/Spends.md",
     "06 Spending/Not Purchased Yet.md",
     "02 School/Modern World History.md",
     "04 Important/ToDo List.md",
