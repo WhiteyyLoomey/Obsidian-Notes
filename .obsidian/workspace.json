@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 Finance/Income.md",
+                "file": "010 Finance/Spends.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Income"
+              "title": "Spends"
             }
           }
         ]
@@ -157,8 +157,8 @@
   },
   "active": "3578c32c313bbe4b",
   "lastOpenFiles": [
-    "010 Finance/Recipes.md",
     "010 Finance/Income.md",
+    "010 Finance/Recipes.md",
     "010 Finance/Spends.md",
     "010 Finance/Images/image.png",
     "010 Finance/Images",
