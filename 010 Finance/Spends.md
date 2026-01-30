@@ -32,4 +32,14 @@
 > Weekly: HK$ 74.635
   Monthly: HK$298.54
 
-## Wants:
+# <span style="color:rgb(255, 255, 0)">Wants:</span>
+[[Not Purchased Yet]]
+Ranking Currently:
+[[Not Purchased Yet#<span style="color rgb(255, 255, 0)">3. Keychron K2 HE</span>]]
+# <span style="color:rgb(255, 255, 0)">Savings:</span>
+[MSI 5070ti Inspire](https://centralfield.com/product/12618/)
+
+
+# Notes:
+AlipayHK and PayPal activates are in [[Holy Chart.ledger]]
+[[Recipes]] don't include all recipes
