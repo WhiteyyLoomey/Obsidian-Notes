@@ -11,12 +11,14 @@
             "id": "3578c32c313bbe4b",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "markdown",
               "state": {
-                "file": "010 Finance/Excel 2026-01-30 21.26.42.sheet.md"
+                "file": "010 Finance/Spends.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel 2026-01-30 21.26.42.sheet"
+              "title": "Spends"
             }
           }
         ]
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
+                "file": "010 Finance/Spends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Excel 2026-01-30 21.26.42.sheet"
+              "title": "Backlinks for Spends"
             }
           },
           {
@@ -135,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
+                "file": "010 Finance/Spends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Excel 2026-01-30 21.26.42.sheet"
+              "title": "Outgoing links from Spends"
             }
           },
           {
@@ -164,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
+                "file": "010 Finance/Spends.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excel 2026-01-30 21.26.42.sheet"
+              "title": "Outline of Spends"
             }
           },
           {
@@ -224,16 +226,22 @@
       "protected-note:Block Obsidian": false,
       "obsidian-git:Open Git source control": false,
       "media-extended:Open external media": false,
-      "excel:Create Excel File": false
+      "excel:Create Excel File": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian42-brat:BRAT": false,
+      "ledger-obsidian:Add to Ledger": false,
+      "modalforms:Edit forms": false
     }
   },
   "active": "3578c32c313bbe4b",
   "lastOpenFiles": [
+    "010 Finance/Recipes.md",
     "010 Finance/Spends.md",
+    "010 Finance/Accounts and Categories/Finance.ledger",
     "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
     "010 Finance/Income.md",
     "06 Spending/Not Purchased Yet.md",
-    "010 Finance/Recipes.md",
     "010 Finance/Images/image.png",
     "010 Finance/Images",
     "010 Finance/Untitled.md",
@@ -269,12 +277,10 @@
     "06 Spending/Images/image 2.png",
     "06 Spending/Images/image 1.png",
     "06 Spending/Images/Pasted image 20260124205001.png",
-    "010 Finance/Accounts and Categories/Finance.ledger",
     "06 Spending/Images",
     "010 Finance/Accounts and Categories",
     "06 Spending",
     "05 Secrets/Images",
-    "05 Secrets/HSR.md",
     "Untitled.canvas"
   ]
 }

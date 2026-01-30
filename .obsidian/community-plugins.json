@@ -13,5 +13,12 @@
   "image-converter",
   "md-cal-gen",
   "obsidian-charts",
-  "excel"
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-projects",
+  "obsidian42-brat",
+  "buttons",
+  "dataview",
+  "ledger-obsidian",
+  "modalforms"
 ]
