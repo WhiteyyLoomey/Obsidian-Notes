@@ -207,106 +207,6 @@
       "wrap": false
     }
   },
-  "010 Finance/Spends.md": {
-    "7ffbd8ade085cd9afd2a410299a2cb09": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "cf9be08e55cffac23ef923ed7bc6a1ee": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "32566d65a4b0f17630d2905763944a97": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "b726ce7fb2d4f2229465b203fe69a7f3": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "701430c6faf77cb217a2076fb75aef1d": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "9d66f82866479d288c40f3481f494d8f": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "13b4cfa81d88c50350f4b3b5e9b4fb09": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "e2918a42c14870cdaebcf1c778d903f7": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "010 Finance/Recipes.md": {
-    "064254a46b6876ff77b3f6067277a7b4": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "61bc880f9b8e48eebb6f84c702c4c8f5": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "06a29acb0914cec34ca6fc0779d36521": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "c5004d136baceed91ce5c2a2cbb6e5de": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "0263afe0185d530ac9631c77ab649f2b": {
-      "position": "left",
-      "width": "219px",
-      "height": "292px",
-      "wrap": false
-    },
-    "ad304c87327f0ae6237c8e2767d14073": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "ffa611f3da36c0bbd5a7fb0b42d30587": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "7f4c468062e6ce74c954e73ad28ff275": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "010 Finance/image.png": {
     "9f9a6ec67bb5be9c3ad6ed8090da9f34": {
       "position": "center",
@@ -371,6 +271,70 @@
       "wrap": false
     },
     "4f44deed8bf588cd1d2d8cd7bda0b885": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "010 Finance/Income.md": {
+    "b0fe39896dc57e26aa7271a24ab73ae3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "06 Spending/Recipes.md": {
+    "064254a46b6876ff77b3f6067277a7b4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "61bc880f9b8e48eebb6f84c702c4c8f5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "06a29acb0914cec34ca6fc0779d36521": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c5004d136baceed91ce5c2a2cbb6e5de": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0263afe0185d530ac9631c77ab649f2b": {
+      "position": "left",
+      "width": "219px",
+      "height": "292px",
+      "wrap": false
+    },
+    "ad304c87327f0ae6237c8e2767d14073": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ffa611f3da36c0bbd5a7fb0b42d30587": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7f4c468062e6ce74c954e73ad28ff275": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8f46e108e34d3daf28122ab56c05d50a": {
       "position": "center",
       "width": "",
       "height": "",

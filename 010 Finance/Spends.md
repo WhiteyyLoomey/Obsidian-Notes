@@ -8,7 +8,7 @@
 | Social                                            | 60                                             |
 | Subscription:                                     | 75                                             |
 | Total:                                            | 280.5                                          |
-
+[[Income]]
 ## Octopus (Details):
 
 | Week:   | Mon  | Tue  | Wed                                            | Thu  | Fri  | Sat | Sun | Total: |
