@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Income"
             }
+          },
+          {
+            "id": "c8acbc0128f08922",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "3081c75a2436f694",
@@ -236,7 +249,6 @@
       "protected-note:Block Obsidian": false,
       "obsidian-git:Open Git source control": false,
       "media-extended:Open external media": false,
-      "excel:Create Excel File": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "obsidian42-brat:BRAT": false,
@@ -245,7 +257,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3578c32c313bbe4b",
+  "active": "513aa9fb24eb8711",
   "lastOpenFiles": [
     "010 Finance/Spends.md",
     "010 Finance/Income.md",
