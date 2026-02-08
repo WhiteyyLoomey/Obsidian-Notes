@@ -1,11 +1,11 @@
 
 Allowance: HK$500
 
-| Category: | Amount |
-| --------- | ------ |
-| Need      | 250    |
-| Want      | 100    |
-| Savings   | 150    |
+| Category: | Amount |     |
+| --------- | ------ | --- |
+| Need      | 250    |     |
+| Want      | 100    |     |
+| Savings   | 150    |     |
 ^name
 
 ```chart
