@@ -11,12 +11,14 @@
             "id": "3578c32c313bbe4b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md"
+                "file": "010 Finance/Income.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-28 21.01.47.excalidraw"
+              "icon": "lucide-file",
+              "title": "Income"
             }
           }
         ]
@@ -244,10 +246,10 @@
   },
   "active": "3578c32c313bbe4b",
   "lastOpenFiles": [
+    "010 Finance/Spends.md",
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "04 Important/Birthday.md",
     "010 Finance/Income.md",
-    "010 Finance/Spends.md",
     "06 Spending/Recipes.md",
     "06 Spending/Not Purchased Yet.md",
     "010 Finance/Accounts and Categories/Holy Chart.ledger",
