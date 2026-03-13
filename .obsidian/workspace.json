@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Not Purchased Yet"
             }
+          },
+          {
+            "id": "45b4e127ce05f439",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,7 +257,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3578c32c313bbe4b",
+  "active": "513aa9fb24eb8711",
   "lastOpenFiles": [
     "06 Spending/Recipes.md",
     "010 Finance/Spends.md",
