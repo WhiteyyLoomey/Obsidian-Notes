@@ -25,12 +25,14 @@
             "id": "45b4e127ce05f439",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "02 School/Modern World History.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Modern World History"
             }
           }
         ],
@@ -257,8 +259,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "513aa9fb24eb8711",
+  "active": "45b4e127ce05f439",
   "lastOpenFiles": [
+    "02 School/Math.md",
+    "04 Important/ToDo List.md",
     "06 Spending/Recipes.md",
     "010 Finance/Spends.md",
     "010 Finance/Income.md",
@@ -274,7 +278,6 @@
     "010 Finance/Recipes",
     "Excalidraw/Drawing 2026-01-30 19.45.31.excalidraw.md",
     "02 School/Modern World History.md",
-    "04 Important/ToDo List.md",
     "01 Game Development/Ideas.md",
     "01 Game Development/Enemies.md",
     "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md",
@@ -291,7 +294,6 @@
     "99 Excalidraw/Drawing 2025-12-02 22.48.42.excalidraw.md",
     "99 Excalidraw/Drawing 2025-11-27 12.39.52.excalidraw.md",
     "99 Excalidraw/2025-11-21 08.19.17.excalidraw.md",
-    "99 Excalidraw/2025-11-20 19.23.07.excalidraw.md",
     "99 Excalidraw",
     "06 Spending/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
     "06 Spending/Images/image.png",

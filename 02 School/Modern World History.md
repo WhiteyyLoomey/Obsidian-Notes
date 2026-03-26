@@ -165,7 +165,8 @@ Coded Decoded Coded Decoded Coded Decoded 
 
 
 
+1. Causes of the Great Depression: The Great Depression was caused by unsustainable credit practices in the 1920s, a weak banking system that failed during economic panics, agricultural struggles leading to widespread debt and foreclosures, and the deflationary cycle that followed the stock market crash.
 
+2. Impact of Bank Failures: The bank failures led to a freeze in credit, which reduced the money supply in circulation. This resulted in deflation, causing businesses to cut costs and lay off workers, further exacerbating unemployment and economic contraction.
 
-
-
+3. Hoover’s Actions: Hoover attempted to address the crisis by encouraging private sector solutions and initiating some public works projects, but his measures were insufficient. He established the Reconstruction Finance Corporation in 1932 to provide emergency loans, but he did not implement large-scale government intervention or stimulus, which many believe was necessary to combat the Depression effectively.
