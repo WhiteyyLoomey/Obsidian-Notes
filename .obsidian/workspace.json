@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Not Purchased Yet"
             }
+          },
+          {
+            "id": "3c4ceacd2a4f3f6c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-24 00.01.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-24 00.01.14.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,11 +271,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e216bcb8243410ac",
+  "active": "3c4ceacd2a4f3f6c",
   "lastOpenFiles": [
+    "06 Spending/Not Purchased Yet.md",
+    "Excalidraw/Drawing 2026-04-24 00.01.14.excalidraw.md",
     "010 Finance/Spends.md",
     "010 Finance/Income.md",
-    "06 Spending/Not Purchased Yet.md",
     "06 Spending/Recipes.md",
     "Excalidraw/Drawing 2026-04-23 12.20.10.excalidraw.md",
     "Excalidraw/Drawing 2026-01-30 19.45.31.excalidraw.md",
@@ -293,7 +306,6 @@
     "99 Templates",
     "99 Excalidraw/Drawing 2026-01-08 12.20.02.excalidraw.md",
     "99 Excalidraw/Drawing 2025-12-02 22.48.42.excalidraw.md",
-    "99 Excalidraw/Drawing 2025-11-27 12.39.52.excalidraw.md",
     "99 Excalidraw",
     "06 Spending/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
     "06 Spending/Images/image.png",
