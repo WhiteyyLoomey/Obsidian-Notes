@@ -170,3 +170,17 @@ Coded Decoded Coded Decoded Coded Decoded 
 2. Impact of Bank Failures: The bank failures led to a freeze in credit, which reduced the money supply in circulation. This resulted in deflation, causing businesses to cut costs and lay off workers, further exacerbating unemployment and economic contraction.
 
 3. Hoover’s Actions: Hoover attempted to address the crisis by encouraging private sector solutions and initiating some public works projects, but his measures were insufficient. He established the Reconstruction Finance Corporation in 1932 to provide emergency loans, but he did not implement large-scale government intervention or stimulus, which many believe was necessary to combat the Depression effectively.
+
+
+
+
+
+
+
+### Explain the non-aggression pact:
+The Non-Aggresion Pact was a distraction formed by Germany and the Soviet Union, most people saw this as a peace treaty but it was actually a plan to invade Poland, the Soviet Union would pretend to attack Germany, this allowed the opportunity to invade Poland and started World War II.
+
+
+What secret deal did their pact or alliance include?
+
+How did Hitler benefit from this alliance?
