@@ -186,4 +186,4 @@ The Soviet Union would not attack Germany as long as Germany does not attack the
 
 
 How did Hitler benefit from this alliance?
-Hitler didn't have to fight two wars at the same time, he was originally going to have to fight against both the Soviet Union and Britain. He was also able to invade Poland succesfully without any interruptions from the Soviet Union.
+Hitler didn't have to fight two wars at the same time, he was originally going to have to fight against both the Soviet Union and Britain. He was also able to invade Poland succesfully without any interruptions from the Soviet Union.p
