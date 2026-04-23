@@ -182,5 +182,8 @@ The Non-Aggresion Pact was a distraction formed by Germany and the Soviet Union,
 
 
 What secret deal did their pact or alliance include?
+The Soviet Union would not attack Germany as long as Germany does not attack them. Also they would team up to invade Poland together by causing a distrcation.
+
 
 How did Hitler benefit from this alliance?
+Hitler didn't have to fight two wars at the same time, he was originally going to have to fight against both the Soviet Union and Britain. He was also able to invade Poland succesfully without any interruptions from the Soviet Union.
