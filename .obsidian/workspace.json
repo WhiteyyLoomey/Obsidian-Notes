@@ -25,12 +25,14 @@
             "id": "e216bcb8243410ac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-23 12.20.10.excalidraw.md"
+                "file": "06 Spending/Not Purchased Yet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-23 12.20.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "Not Purchased Yet"
             }
           }
         ],
@@ -259,16 +261,16 @@
   },
   "active": "e216bcb8243410ac",
   "lastOpenFiles": [
+    "010 Finance/Spends.md",
+    "010 Finance/Income.md",
+    "06 Spending/Not Purchased Yet.md",
+    "06 Spending/Recipes.md",
     "Excalidraw/Drawing 2026-04-23 12.20.10.excalidraw.md",
     "Excalidraw/Drawing 2026-01-30 19.45.31.excalidraw.md",
     "02 School/Modern World History.md",
     "04 Important/Birthday.md",
-    "06 Spending/Not Purchased Yet.md",
     "02 School/Math.md",
     "04 Important/ToDo List.md",
-    "06 Spending/Recipes.md",
-    "010 Finance/Spends.md",
-    "010 Finance/Income.md",
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "README.md",
     "010 Finance/Accounts and Categories/Holy Chart.ledger",
