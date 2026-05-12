@@ -68,3 +68,6 @@ Ability Cooldown: 1m
 Strength Essence:
 ![[image.png]]
 
+Speed Essence:
+![[image-1.png]]
+Haste Essence:
