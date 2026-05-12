@@ -35,4 +35,11 @@ Fire 1: Permanent Fire Resistance
 Fire 2: Permanent Fire Resistance, Able to Swim in Lava. Ability: Fire Aspect 2 now gives a blue fire that bypasses Fire Resistance for 20 seconds.
 
 Breeze 1: Permanent 0 Fall Damage
-Breeze 2: Deals 6 Extra Damage when you are 5 
+Breeze 2: Permanent 0 Fall Damage, Deals 4 Extra Damage (2 Hearts) when you are 5 blocks above your enemy. Ability: Launch everything around a 5 block radius 40 blocks into the sky
+
+Void 1: Permanent 0 Aggro from Ender mobs
+Void 2: Permanent 0 Aggro from Ender mobs, Gives levitation right before touching the void (Essentially just make it immune to void damage) Ability: Gives Full Invisibility including armor
+
+# New Addition:
+
+Golden Spawner (Haven't made the model yet)
