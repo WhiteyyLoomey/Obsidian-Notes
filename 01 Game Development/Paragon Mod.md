@@ -15,9 +15,10 @@ Please make regeneration 1 work.
 
 Strength 1: Perm Strength 1
 Strength 2: Perm Strength 2, Ability: Shield Disable lasts 10 seconds.
+Ability Cooldown: 30s
 
 Speed 1: Perm Speed 1
-Speed 2: Perm Speed 2, Ability: Slow Enemies around a 10 radius circle. (Use particles to simulate this effect)
+Speed 2: Perm Speed 2, Ability: Slow Enemies around a 10 radius circle. (Use particles to simulate this effect), (Slowness IV)
 
 Haste 1: Perm Haste 1
 Haste 2: Perm Haste 2, Ability: Applies Efficiency 10, Fortune 10, Unbreaking 10 for 15 seconds.
@@ -42,4 +43,13 @@ Void 2: Permanent 0 Aggro from Ender mobs, Gives levitation right before touchin
 
 # New Addition:
 
-Golden Spawner (Haven't made the model yet)
+## Golden Spawner (Haven't made the model yet)
+Most expensive item in the game.
+
+When you place it down everytime, it gives you an interface, where you can choose which mob it spawns without needing a spawn egg, and spawns mobs more frequently than a normal spawner. Once you break it, it will reset and you'll have to choose the mob again.
+
+
+## Scythe (Put this on hold I don't have intentions on actually adding this yet)
+
+I don't have a name for this but essentially.
+It has the same attack stats as a netherite axe but the attack cooldown of a netherite sword. Special Ability: Launches a vertical attack around 2 blocks wide, consumes 5 health YOURSELF, but if it lands deals 5 hearts and you yourself gains Absorption 10 and Regeneration 5 for 3 seconds. 
