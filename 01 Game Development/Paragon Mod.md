@@ -22,4 +22,11 @@ Speed 2: Perm Speed 2, Ability: Slow Enemies around a 10 radius circle. (Use par
 Haste 1: Perm Haste 1
 Haste 2: Perm Haste 2, Ability: Applies Efficiency 10, Fortune 10, Unbreaking 10 for 15 seconds.
 
-Health: Permanent Bonus Heart 2
+Health 1: Permanent Bonus Heart 2
+Health 2: Permanent Bonus Heart 5, Ability: Able to steal player's hearts to heal yourself (Ex. I deal 5 hearts to my enemy, I heal 5 hearts.)
+
+Hero of the Village 1: Permanent Hero of the Village 1
+Hero of the Village 2: Permanent Hero of the Village 2, Ability: Gives Hero of the Village 100, 5x XP Gained from all sources, Looting 10 for 15 minutes.
+
+Ocean 1: Permanent Water Breathing
+Ocean 2: Permanent Water Breathing, Dolphin's Grace 1. Ability: I
