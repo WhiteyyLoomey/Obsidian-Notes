@@ -71,3 +71,6 @@ Strength Essence:
 Speed Essence:
 ![[image-1.png]]
 Haste Essence:
+![[image-2.png]]
+Health Essence:
+![[image-3.png]]
