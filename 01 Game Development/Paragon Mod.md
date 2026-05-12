@@ -29,4 +29,10 @@ Hero of the Village 1: Permanent Hero of the Village 1
 Hero of the Village 2: Permanent Hero of the Village 2, Ability: Gives Hero of the Village 100, 5x XP Gained from all sources, Looting 10 for 15 minutes.
 
 Ocean 1: Permanent Water Breathing
-Ocean 2: Permanent Water Breathing, Dolphin's Grace 1. Ability: I
+Ocean 2: Permanent Water Breathing, Dolphin's Grace 1. Ability: Able to use a Riptide Trident any time and Impaling finally works on any mobs under the rain.
+
+Fire 1: Permanent Fire Resistance
+Fire 2: Permanent Fire Resistance, Able to Swim in Lava. Ability: Fire Aspect 2 now gives a blue fire that bypasses Fire Resistance for 20 seconds.
+
+Breeze 1: Permanent 0 Fall Damage
+Breeze 2: Deals 6 Extra Damage when you are 5 
