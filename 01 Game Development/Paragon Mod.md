@@ -74,3 +74,11 @@ Haste Essence:
 ![[image-2.png]]
 Health Essence:
 ![[image-3.png]]
+Hero of The Village:
+![[image-4.png]]
+Ocean:
+![[image-6.png]]
+Fire:
+![[image-7.png]]
+Breeze:
+![[image-8.png]]
