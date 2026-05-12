@@ -64,4 +64,7 @@ It has the same attack stats as a netherite axe but the attack cooldown of a net
 Ability Cooldown: 1m
 
 
-Recipe:
+# Recipe:
+Strength Essence:
+![[image.png]]
+
