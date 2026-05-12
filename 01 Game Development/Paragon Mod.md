@@ -86,6 +86,9 @@ Void:
 ![[image-9.png]]
 
 Golden Spawner:
-9 Spawner Fragments
+4 Spawner Fragments (Cross Shape)
+4 Nether Star (Corner)
+1 Turtle Egg (Middle)
 
 Spawner Fragments:
+![[image-10.png]]
