@@ -97,8 +97,13 @@ Spawner Fragments:
 
 
 Court Case:
+
+1st - Lokus and Nick what were they doing on May 13th 9 oclock
+2nd - No Evidence
+3rd - Lokus and Mento
+4th - Timmxy and Lokus
 6th - What was Mento, Lokus, Nicholas doing on May 13th 7 oclock to 8 oclock during night.
 
-Evidence: Lokus's flash
+Evidence: Lokus's flashback
 
 
