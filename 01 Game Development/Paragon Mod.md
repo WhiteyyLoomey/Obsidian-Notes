@@ -92,3 +92,13 @@ Golden Spawner:
 
 Spawner Fragments:
 ![[image-10.png]]
+
+
+
+
+Court Case:
+6th - What was Mento, Lokus, Nicholas doing on May 13th 7 oclock to 8 oclock during night.
+
+Evidence: Lokus's flash
+
+
