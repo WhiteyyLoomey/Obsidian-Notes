@@ -103,7 +103,7 @@ Court Case:
 3rd - Lokus and Mento
 4th - Timmxy and Lokus
 5th - What was Mento, Lokus, Nicholas doing on May 13th 7 oclock to 8 oclock during night.
-6th - Hayden
+	6th - Hayden
 
 Evidence: Lokus's flashback
 
