@@ -108,3 +108,5 @@ Court Case:
 Evidence: Lokus's flashback
 
 
+Evidence 7:
+![[image-11.png]]
