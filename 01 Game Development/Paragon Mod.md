@@ -110,3 +110,14 @@ Evidence: Lokus's flashback
 
 Evidence 7:
 ![[image-11.png]]
+
+
+
+
+Good Morning Boys and Gentlemen. Welcome to the Great Reset, before we begin I would like to ask you all a question, what is true power? It's not the ability to rule over others, not the power to choose who lives or not. But the power to kill on accident without control.
+
+This server has spiraled into chaos once these potions were added into our server. With multiple accidental and purposeful deaths occurring.
+
+The Gods are now in your favor, they have found a way to balance out these abilities but in exchange you lose them as your guide, whatever you do with these powers it is up to you.
+
+Now members of the Paragon SMP, I would like to ask you all to turn your gaze towards the sky. Watch as these powers fall into the hands of your peers, because for once. This server's scales have tipped towards perfection.
