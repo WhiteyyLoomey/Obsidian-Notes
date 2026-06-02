@@ -53,18 +53,32 @@
             "id": "d6fdbaa0ec6f3140",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 School/Music.md",
-                "mode": "source",
-                "source": false
+                "file": "03 Resources/WWYD Ancient Greece.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 796,
+                "zoom": 0.9803921568627451
               },
-              "icon": "lucide-file",
-              "title": "Music"
+              "icon": "lucide-file-text",
+              "title": "WWYD Ancient Greece"
+            }
+          },
+          {
+            "id": "b3341306dbad03ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-02 11.33.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-02 11.33.49.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,10 +301,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "513aa9fb24eb8711",
+  "active": "b3341306dbad03ae",
   "lastOpenFiles": [
-    "README.md",
+    "03 Resources/WWYD Ancient Greece.pdf",
+    "Excalidraw/Drawing 2026-06-02 11.33.49.excalidraw.md",
     "02 School/Music.md",
+    "README.md",
     "01 Game Development/Paragon Mod.md",
     "Untitled",
     "01 Game Development/image-11.png",
@@ -332,9 +348,6 @@
     "07 Setup/Not Purchased Yet.md",
     "Excalidraw",
     "99 Templates/🛒 Template flow category.md",
-    "99 Templates/💵 Income Category Template.md",
-    "99 Templates/💳 Account Template.md",
-    "99 Templates",
     "Untitled.canvas"
   ]
 }
