@@ -101,12 +101,16 @@
             "id": "130ffb0e8eef438f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-03 10.00.29.excalidraw.md"
+                "file": "03 Resources/Unit 4 - Homework 3.pdf",
+                "page": 2,
+                "left": -16,
+                "top": 617,
+                "zoom": 0.9803921568627451
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-03 10.00.29.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "Unit 4 - Homework 3"
             }
           }
         ],
@@ -345,9 +349,9 @@
   },
   "active": "130ffb0e8eef438f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-03 10.00.29.excalidraw.md",
     "Excalidraw/Unit 7 - Solid Geometry - Finals_0.pdf",
     "Excalidraw/Unit 7 - Solid Geometry - Finals.pdf",
-    "Excalidraw/Drawing 2026-06-03 10.00.29.excalidraw.md",
     "Excalidraw/Drawing 2026-06-03 09.55.39.excalidraw.md",
     "03 Resources/Unit 4 - Congruence & Similarity - Final (I) - A.pdf",
     "03 Resources/Unit 4 - Homework 3.pdf",
@@ -388,7 +392,6 @@
     "Excalidraw/Drawing 2026-01-28 21.01.47.excalidraw.md",
     "010 Finance/Accounts and Categories/Holy Chart.ledger",
     "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
-    "010 Finance/Images",
     "010 Finance/Untitled.md",
     "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md",
     "Untitled.canvas"
