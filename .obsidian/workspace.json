@@ -85,16 +85,32 @@
             "id": "981d4884bcea39ab",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Excalidraw/Unit 7 - Solid Geometry - Finals.pdf",
+                "page": 1,
+                "left": -15,
+                "top": 846,
+                "zoom": 1.0067114093959733
+              },
+              "icon": "lucide-file-text",
+              "title": "Unit 7 - Solid Geometry - Finals"
+            }
+          },
+          {
+            "id": "130ffb0e8eef438f",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-03 09.55.39.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-06-03 10.00.29.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-03 09.55.39.excalidraw"
+              "title": "Drawing 2026-06-03 10.00.29.excalidraw"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -327,10 +343,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "981d4884bcea39ab",
+  "active": "130ffb0e8eef438f",
   "lastOpenFiles": [
-    "03 Resources/Unit 4 - Congruence & Similarity - Final (I) - A.pdf",
+    "Excalidraw/Unit 7 - Solid Geometry - Finals_0.pdf",
+    "Excalidraw/Unit 7 - Solid Geometry - Finals.pdf",
+    "Excalidraw/Drawing 2026-06-03 10.00.29.excalidraw.md",
     "Excalidraw/Drawing 2026-06-03 09.55.39.excalidraw.md",
+    "03 Resources/Unit 4 - Congruence & Similarity - Final (I) - A.pdf",
     "03 Resources/Unit 4 - Homework 3.pdf",
     "03 Resources/Unit 4 - Homework 6.pdf",
     "Excalidraw/Drawing 2026-06-02 11.33.49.excalidraw.md",
@@ -371,9 +390,7 @@
     "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
     "010 Finance/Images",
     "010 Finance/Untitled.md",
-    "010 Finance/Recipes",
     "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md",
-    "07 Setup/Not Purchased Yet.md",
     "Untitled.canvas"
   ]
 }
