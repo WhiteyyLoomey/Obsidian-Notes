@@ -114,7 +114,7 @@
                 "file": "03 Resources/Unit 4 - Homework 3.pdf",
                 "page": 2,
                 "left": -16,
-                "top": 617,
+                "top": 650,
                 "zoom": 0.9803921568627451
               },
               "icon": "lucide-file-text",
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -355,15 +355,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "130ffb0e8eef438f",
+  "active": "59868f4c5ec82859",
   "lastOpenFiles": [
+    "03 Resources/Unit 4 - Homework 3.pdf",
     "Excalidraw/Drawing 2026-06-11 09.20.09.excalidraw.md",
     "Excalidraw/Drawing 2026-06-02 11.33.49.excalidraw.md",
     "Excalidraw/Drawing 2026-06-03 09.55.39.excalidraw.md",
     "Excalidraw/Drawing 2026-06-03 10.00.29.excalidraw.md",
     "Excalidraw/Unit 7 - Solid Geometry - Finals.pdf",
     "Excalidraw/Unit 7 - Solid Geometry - Finals_0.pdf",
-    "03 Resources/Unit 4 - Homework 3.pdf",
     "03 Resources/Unit 4 - Congruence & Similarity - Final (I) - A.pdf",
     "03 Resources/Unit 4 - Homework 6.pdf",
     "03 Resources/WWYD Ancient Greece.pdf",
@@ -402,7 +402,6 @@
     "010 Finance/Accounts and Categories/Holy Chart.ledger",
     "010 Finance/Excel 2026-01-30 21.26.42.sheet.md",
     "010 Finance/Untitled.md",
-    "Excalidraw/Drawing 2026-01-29 12.34.34.excalidraw.md",
     "Untitled.canvas"
   ]
 }
