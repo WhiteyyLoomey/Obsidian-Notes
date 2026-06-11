@@ -94,6 +94,18 @@
             }
           },
           {
+            "id": "59868f4c5ec82859",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-11 09.20.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-11 09.20.09.excalidraw"
+            }
+          },
+          {
             "id": "130ffb0e8eef438f",
             "type": "leaf",
             "state": {
@@ -102,7 +114,7 @@
                 "file": "03 Resources/Unit 4 - Homework 3.pdf",
                 "page": 2,
                 "left": -16,
-                "top": 613,
+                "top": 617,
                 "zoom": 0.9803921568627451
               },
               "icon": "lucide-file-text",
@@ -110,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -343,8 +355,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "981d4884bcea39ab",
+  "active": "130ffb0e8eef438f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-11 09.20.09.excalidraw.md",
     "Excalidraw/Drawing 2026-06-02 11.33.49.excalidraw.md",
     "Excalidraw/Drawing 2026-06-03 09.55.39.excalidraw.md",
     "Excalidraw/Drawing 2026-06-03 10.00.29.excalidraw.md",
