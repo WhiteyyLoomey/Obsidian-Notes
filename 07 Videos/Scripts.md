@@ -20,4 +20,6 @@
 
 	To convert your concrete powder into concrete, you can either build a concrete converter or you can just dig two blocks into a wall, dig down and start holding down right click and left click.
 
-	For dyes I'll start splitting these into sections and I'd recommend getting a stack of each dye, for red, yellow, magenta and pink dye you would want to find tall bushes according to them such as rose bushes 
+	For dyes I'll start splitting these into sections and I'd recommend getting a stack of each dye.
+	
+	For red, yellow, magenta and pink dye you would want to find tall bushes according to them such as rose bushes, lilac and peonies found most commonly in Flower Forests, and Sunflowers found in Sunflowers Plains, you could obtain them very easily by just bone mealing the top block and it would start giving you duplicates of the same flowers. For black dye, you could obtain it easily by killing squids for ink sacs. For green dye, travel to the nearest desert and locate cactuses to smelt them into green dye, i'd recommend making a cactus farm if you want a long lasting supply. For blue dye, you would want to mine
