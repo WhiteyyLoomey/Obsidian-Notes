@@ -8,4 +8,7 @@
 
 	To defend myself, I'm going to be setting up tests on both sides to see which is faster to get a stack of golden carrots. For mining gold I originally decided to look for a mesa or badlands biome since gold spawn way more in those biomes, but I eventually swapped to using silk touch in the nether, not only do they spawn more frequently, but if you also smelt nether gold ores they actually give you an entire ingot instead of some nuggets, and after doing a bit of grinding I eventually got a time of ##:##.
 
-	 For villagers, i'm not even gonna bother to explain this, I grabbed some tripwires from a tripwire duper, sold them to a bunch of 
+	 For villagers, i'm not even gonna bother to explain this, I grabbed some tripwires from a tripwire duper, sold them to a bunch of fletchers and bought my carrots, not even 5 minutes. "Oh but Hayden! Tripwire Dupers only work in version 1.21.11!!!", ok well I'll just USE THE FUCKING INFINITE GLASS PANES GLITCH WHERE YOU TURN GLASS INTO GLASS PANES AND SELL THEM FOR MORE EMERALDS, ##:## I DON'T WANT TO HEAR IT, NOT EVEN CLOSE BABY. SUCK IT YOUTUBE COMMENTS, ok bye.
+
+
+# Youtube Short: Golden Carrots
