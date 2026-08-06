@@ -11,4 +11,11 @@
 	 For villagers, i'm not even gonna bother to explain this, I grabbed some tripwires from a tripwire duper, sold them to a bunch of fletchers and bought my carrots, not even 5 minutes. "Oh but Hayden! Tripwire Dupers only work in version 1.21.11!!!", ok well I'll just USE THE FUCKING INFINITE GLASS PANES GLITCH WHERE YOU TURN GLASS INTO GLASS PANES AND SELL THEM FOR MORE EMERALDS, ##:## I DON'T WANT TO HEAR IT, NOT EVEN CLOSE BABY. SUCK IT YOUTUBE COMMENTS, ok bye.
 
 
-# Youtube Short: Golden Carrots
+# Youtube Short: Concrete Dupers
+
+
+	If you haven't heard already, Mojang just added Concrete Stairs and Slabs in the latest snapshot, which was huge! So I'm gonna teach you a few ways to get these blocks before they come out.
+
+	First off you're going to want to make a concrete powder duper. as you all may have known Mojang has removed the feature where you were able to break the end portal frame using mushrooms in 1.21.5. But there's a workaround to this where you can break the frames by using the contraption, after you finished breaking everything you can basically follow any farm on the internet to grab these items, these farms don't only produce concrete powder, but it can also dupe any gravity block such as sand and gravel.
+
+	To convert your 
