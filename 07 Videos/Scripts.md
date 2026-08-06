@@ -18,4 +18,6 @@
 
 	First off you're going to want to make a concrete powder duper. as you all may have known Mojang has removed the feature where you were able to break the end portal frame using mushrooms in 1.21.5. But there's a workaround to this where you can break the frames by using the contraption, after you finished breaking everything you can basically follow any farm on the internet to grab these items, these farms don't only produce concrete powder, but it can also dupe any gravity block such as sand and gravel.
 
-	To convert your 
+	To convert your concrete powder into concrete, you can either build a concrete converter or you can just dig two blocks into a wall, dig down and start holding down right click and left click.
+
+	For dyes I'll start splitting these into sections and I'd recommend getting a stack of each dye, for red, yellow, magenta and pink dye you would want to find tall bushes according to them such as rose bushes 
