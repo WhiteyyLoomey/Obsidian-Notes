@@ -66,12 +66,12 @@ Ability Cooldown: 1m
 
 # Recipe:
 Strength Essence:
-![[image.png]]
+![[01 Game Development/image.png]]
 
 Speed Essence:
-![[image-1.png]]
+![[01 Game Development/image-1.png]]
 Haste Essence:
-![[image-2.png]]
+![[01 Game Development/image-2.png]]
 Health Essence:
 ![[image-3.png]]
 Hero of The Village:

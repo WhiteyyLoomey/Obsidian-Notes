@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiYoutube",
       "LiMusic",
       "LiX",
       "SiCashapp",
-      "LiBadgeCent",
-      "LiKey"
+      "LiBadgeCent"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "04 Important/Birthday.md": "LiCake",
   "04 Important/Area.md": "LiHouse",
   "010 Finance": "SiCashapp",
-  "02 School/Music.md": "LiMusic"
+  "02 School/Music.md": "LiMusic",
+  "07 Videos": "SiYoutube"
 }

@@ -6,14 +6,14 @@ cssclasses:
 ## 1. Audio
 
 ##### <span style="color:rgb(255, 255, 0)">1.PreSonus AudioBox GO 2x2 USB Audio Interface 錄音介面</span>
-![[Pasted image 20260124195056.png]]
+![[06 Spending/Images/Pasted image 20260124195056.png]]
 ==Price: HK$ 680-800==
 > Necessary for certain microphones, and great for audio configurations.
 
 [Price.com.hk](https://www.price.com.hk/product.php?p=543083) 
 
 ##### <span style="color:rgb(255, 255, 0)">2. Truthear x Crinacle ZERO</span>
-![[Pasted image 20260124205001.png|271x206]]
+![[06 Spending/Images/Pasted image 20260124205001.png|271x206]]
 ==Price: HK$ 549==
 > IEMs perfect for video editing and gaming, it even looks good.
 [Price.com.hk](https://www.price.com.hk/product.php?p=656089)
@@ -26,7 +26,7 @@ cssclasses:
 ## 2. USB Sockets
 
 ##### <span style="color:rgb(255, 255, 0)">1. NK Modular Independent Switch Socket</span>
-![[image 2.png|353x329]]
+![[06 Spending/Images/image 2.png|353x329]]
 ==Price: HK$ 489==
 > Used for more USB connections, can connect Lightbar to it so the strings wont break when I lift the desk up.
 
@@ -35,14 +35,14 @@ cssclasses:
 
 ## 3. Keyboards
 ##### <span style="color:rgb(255, 255, 0)">1. Wooting 60HE</span>
-![[Pasted image 20260124201736.png|408x221]]
+![[06 Spending/Images/Pasted image 20260124201736.png|408x221]]
 ==Price: HK$ 1227 <span style="color:rgb(255, 0, 0)">(Excluding Shipping)</span>==
 > Hall Effect Keyboard using magnet keycaps. Great inputs but expensive and not great for working.
 
 [Wooting](https://wooting.io/configurator/wooting-60he?product=plus&model=ANSI&lang=United+States&keycaps=none&quantity=1)
 
 ##### <span style="color:rgb(255, 255, 0)">2. Aula F75</span>
-![[Pasted image 20260124204729.png|394x250]]
+![[06 Spending/Images/Pasted image 20260124204729.png|394x250]]
 ==Price: HK$ 299==
 > A Budget Keyboard that has great input almost as good as any other keyboard, maybe even better, but has very low quality parts and would feel cheap instantly
 
@@ -50,14 +50,14 @@ cssclasses:
 
 
 ##### <span style="color:rgb(255, 255, 0)">3. Keychron K2 HE</span>
-![[{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png|370x346]]
+![[06 Spending/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png|370x346]]
 ==Price: HK$ 988==
 > A wood accent hall effect keyboard for both gaming and productivity. This keyboard fits my setup and can also improve gaming.
 
 [2000Fun](https://www.openshop.com.hk/product_34916.html)
 ## 4. Mouse
 ##### <span style="color:rgb(255, 255, 0)">1. Orbital Path Finder</span>
-![[Pasted image 20260124204407.png|338x336]]
+![[06 Spending/Images/Pasted image 20260124204407.png|338x336]]
 
 ==Price: HK$1299==
 > Complete Modular Mouse, infinite customization and smooth gliding, once i buy this there's no point in buying any other mouse, saving money.
@@ -66,7 +66,7 @@ cssclasses:
 [2000Fun](https://www.openshop.com.hk/product_41430.htmla)
 
 ##### <span style="color:rgb(255, 255, 0)">2. Logitech G Pro Superstrike</span>
-![[image 1.png|418x413]]
+![[06 Spending/Images/image 1.png|418x413]]
 ==Price: HK$ 1399==
 > Lighting gaming mouse yet, 8k wireless polling rate and weights 56g.
 
@@ -74,7 +74,7 @@ cssclasses:
 
 ## 5. Tech Shit
 ##### <span style="color:rgb(255, 255, 0)">1. UGREEN Power</span>
-![[image-2.png|310x311]]
+![[06 Spending/Images/image-2.png|310x311]]
 ==Price: HK$268==
 > Good portal charger able to charge a phone 1-2 twice at max power and could even 100% charge a Mac (20,000mAh) but 67 Watts only, extremely lightweight
 
@@ -82,7 +82,7 @@ cssclasses:
 [2000Fun](https://www.openshop.com.hk/product_45164.html)
 
 ##### <span style="color:rgb(255, 255, 0)">2. Anker Soundcore R60i Earbuds</span> 
-![[{9E48CD2B-7A70-4C94-9FCA-991BB81D209B}.png|386x390]]
+![[06 Spending/Images/{9E48CD2B-7A70-4C94-9FCA-991BB81D209B}.png|386x390]]
 
 ==Price HK$ 399==
 > Affordable name-brand Airpods able to switch between devices easily (one of the issues my current airpods I have), doesn't fall off easily)
@@ -90,7 +90,7 @@ cssclasses:
 [Anker](https://ankerhongkong.com/products/d1202?_pos=15&_fid=42a3c0b92&_ss=c)
 
 ##### <span style="color:rgb(255, 255, 0)">3. Anker Power Bank</span> 
-![[{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}-1.png|360x402]]
+![[06 Spending/Images/{0D5CD5D0-0242-45FA-ACEB-42FC972725DD}-1.png|360x402]]
 
 ==Price HK$ 599==
 
