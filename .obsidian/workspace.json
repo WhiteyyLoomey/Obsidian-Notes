@@ -125,12 +125,12 @@
             "id": "48e57d54d68c3856",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.13.6"
+                "file": "Excalidraw/Drawing 2026-08-27 22.08.56.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-27 22.08.56.excalidraw"
             }
           },
           {
@@ -385,8 +385,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "513aa9fb24eb8711",
+  "active": "ad45f0db79c607a5",
   "lastOpenFiles": [
+    "03 Resources/Yat Hay SHAM - Significant Figures Worksheet .pdf",
+    "Excalidraw/Drawing 2026-08-27 22.08.56.excalidraw.md",
     "02 School/Life Science.md",
     "07 Videos/Scripts.md",
     "07 Videos/Images/{D8029E0A-12A4-47C2-9D34-F3C210DEE491}.png",
@@ -431,8 +433,6 @@
     "04 Important/Area.md",
     "01 Game Development/Enemies.md",
     "Excalidraw/Drawing 2026-04-23 12.20.10.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-24 00.01.14.excalidraw.md",
-    "010 Finance/Income.md",
     "Untitled.canvas"
   ]
 }
