@@ -1,6 +1,8 @@
 Robin Summeretto
 Castorice
+Aglaea
 Yao Guang
+Cipher
 Pearl
 Hysilens
 Himeko Nova
