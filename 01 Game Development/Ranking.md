@@ -9,9 +9,13 @@ Cipher
 The Herta
 Pearl
 Jade
+Ruan Mei
 Hysilens
 Himeko Nova
+Fugue
 Sparxie
+Sparkle
+
 Cyrene
 Robin
 Evernight
