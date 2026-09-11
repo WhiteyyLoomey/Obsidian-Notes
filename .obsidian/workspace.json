@@ -150,6 +150,18 @@
             }
           },
           {
+            "id": "95484e5b020ee1a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
             "id": "130ffb0e8eef438f",
             "type": "leaf",
             "state": {
@@ -166,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -353,7 +365,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "3081c75a2436f694",
@@ -401,7 +413,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e675710c3b8eddea",
+  "active": "513aa9fb24eb8711",
   "lastOpenFiles": [
     "01 Game Development/Ranking.md",
     "Excalidraw/Drawing 2026-06-11 09.20.09.excalidraw.md",
