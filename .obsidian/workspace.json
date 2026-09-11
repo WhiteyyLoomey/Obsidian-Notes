@@ -153,12 +153,14 @@
             "id": "95484e5b020ee1a4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "04 Important/Birthday.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-file",
+              "title": "Birthday"
             }
           },
           {
@@ -413,7 +415,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "513aa9fb24eb8711",
+  "active": "95484e5b020ee1a4",
   "lastOpenFiles": [
     "01 Game Development/Ranking.md",
     "Excalidraw/Drawing 2026-06-11 09.20.09.excalidraw.md",

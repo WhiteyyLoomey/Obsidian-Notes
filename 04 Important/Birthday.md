@@ -7,3 +7,4 @@ Lokus Birthday - September 4
 Alicia Birthday - July 26
 Hayden Birthday - May 16
 Mento Birthday - August 2
+Nick Birthday - September 4x
