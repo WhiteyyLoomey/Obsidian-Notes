@@ -1,11 +1,13 @@
 Robin Summeretto
 The Dahlia Constance
+Aeon Aha
 Firefly
 Castorice
 Aglaea
 Yao Guang
 Black Swan
 Cipher
+Himeko
 Kafka
 The Herta
 Pearl
@@ -23,8 +25,10 @@ Robin
 Evernight
 Cerydra
 Acheron
+Seele
 Fu Xuan
-Silver Wold LV.999
+Silver Wolf
+Silver Wolf LV.999
 Rappa
 Rin Tohsaka
 Hyacine
