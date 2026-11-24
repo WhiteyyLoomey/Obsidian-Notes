@@ -181,12 +181,12 @@
             "id": "761b3298dc11e794",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.15.1"
+                "file": "Excalidraw/Drawing 2026-11-24 13.59.55.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-24 13.59.55.excalidraw"
             }
           },
           {
@@ -441,8 +441,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "513aa9fb24eb8711",
+  "active": "761b3298dc11e794",
   "lastOpenFiles": [
+    "03 Resources/Yat Hay SHAM - a74d32f4-2c99-44a2-9cfb-44f06af3ebf2.pdf",
+    "Excalidraw/Drawing 2026-11-24 13.59.55.excalidraw.md",
     "01 Game Development/Untitled.md",
     "01 Game Development/Ranking.md",
     "01 Game Development/Paragon Mod.md",
@@ -485,10 +487,7 @@
     "Excalidraw/Unit 7 - Solid Geometry - Finals_0.pdf",
     "03 Resources/Unit 4 - Congruence & Similarity - Final (I) - A.pdf",
     "03 Resources/Unit 4 - Homework 6.pdf",
-    "03 Resources/WWYD Ancient Greece.pdf",
     "02 School/Music.md",
-    "01 Game Development/Ideas.md",
-    "010 Finance/Spends.md",
     "Untitled.canvas"
   ]
 }
