@@ -178,6 +178,18 @@
             }
           },
           {
+            "id": "761b3298dc11e794",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
+          },
+          {
             "id": "130ffb0e8eef438f",
             "type": "leaf",
             "state": {
@@ -194,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -429,7 +441,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e02d600f24e2ac2",
+  "active": "513aa9fb24eb8711",
   "lastOpenFiles": [
     "01 Game Development/Untitled.md",
     "01 Game Development/Ranking.md",

@@ -9,5 +9,6 @@
     "CyanVoxel's General Tweaks",
     "CSS"
   ],
-  "textFontFamily": "JetBrains Mono"
+  "textFontFamily": "JetBrains Mono",
+  "showRibbon": true
 }
